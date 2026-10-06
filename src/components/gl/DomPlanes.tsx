@@ -16,8 +16,7 @@ const vertexShader = /* glsl */ `
     vec4 w = modelMatrix * vec4(position, 1.0);
     // Le plan se courbe dans le sens du défilement, comme une toile tendue
     vec2 bow = vec2(sin(uv.y * 3.14159), sin(uv.x * 3.14159));
-    w.xy -= uVel * bow * 0.55;
-    w.z -= (abs(uVel.x) + abs(uVel.y)) * bow.x * bow.y * 1.6;
+    w.xy -= uVel * bow * 0.22;
     gl_Position = projectionMatrix * viewMatrix * w;
   }
 `;
@@ -46,13 +45,10 @@ const fragmentShader = /* glsl */ `
       uv.y += uParallax * (1.0 - s.y) * 0.5;
     }
     // Révélation : la toile se découvre de bas en haut avec un léger zoom arrière
-    float zoom = 1.0 - 0.18 * (1.0 - uReveal) - 0.06 * uHover;
+    float zoom = 1.0 - 0.08 * (1.0 - uReveal) - 0.035 * uHover;
     uv = (uv - 0.5) * zoom + 0.5;
-    // Ondulation liquide au survol
-    vec2 d = uv - 0.5;
-    uv += d * sin(length(d) * 22.0 - uTime * 3.5) * 0.008 * uHover;
 
-    vec2 shift = uVel * 0.0007;
+    vec2 shift = uVel * 0.00035;
     vec3 tex = vec3(
       texture2D(uTex, uv - shift).r,
       texture2D(uTex, uv).g,
@@ -145,11 +141,12 @@ function DomPlane({ entry }: { entry: PlaneEntry }) {
     m.visible = true;
     const x = r.left + r.width / 2 - vw / 2;
     const y = -(r.top + r.height / 2 - vh / 2);
-    const f = 1 / Math.max(dt * 60, 0.001);
-    const vx = prev.current ? clamp((x - prev.current.x) * f, -60, 60) : 0;
-    const vy = prev.current ? clamp((y - prev.current.y) * f, -60, 60) : 0;
+    const vx = prev.current ? clamp(x - prev.current.x, -40, 40) : 0;
+    const vy = prev.current ? clamp(y - prev.current.y, -40, 40) : 0;
     prev.current = { x, y };
-    vel.current.set(damp(vel.current.x, vx, 8, dt), damp(vel.current.y, vy, 8, dt));
+    vel.current.set(damp(vel.current.x, vx, 5, dt), damp(vel.current.y, vy, 5, dt));
+    // sous un demi-pixel, on considère le plan immobile : pas de frémissement résiduel
+    if (Math.abs(vel.current.x) < 0.5 && Math.abs(vel.current.y) < 0.5) vel.current.set(0, 0);
 
     m.position.set(x, y, 0);
     m.scale.set(r.width, r.height, 1);

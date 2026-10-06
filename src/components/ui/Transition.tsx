@@ -100,8 +100,10 @@ export default function Transition() {
                 useStore.getState().set({ phase: 'idle', transition: null });
               },
             })
-            .to([title.current, sub.current], { yPercent: -40, opacity: 0, duration: 0.4, ease: 'power2.in' })
-            .set(path.current, { attr: { d: OUT.full } })
+            // Le tracé « sortie » remplace le tracé « entrée » dès le départ (même forme pleine),
+            // avant que le rideau ne commence à monter : sinon il recouvre la page une frame.
+            .set(path.current, { attr: { d: OUT.full } }, 0)
+            .to([title.current, sub.current], { yPercent: -40, opacity: 0, duration: 0.4, ease: 'power2.in' }, 0)
             .to(path.current, { attr: { d: OUT.curved }, duration: 0.4, ease: 'power2.in' }, 0.15)
             .to(path.current, { attr: { d: OUT.hidden }, duration: 0.45, ease: 'power2.out' });
         } else {

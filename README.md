@@ -2,7 +2,7 @@
 
 # Musée Imaginaire
 
-**Une galerie sans murs.** Quarante artistes, deux cent huit œuvres, sept salles,
+**Une galerie sans murs.** Quarante artistes, deux cent vingt-huit œuvres, sept salles,
 de Léonard de Vinci à Jackson Pollock.
 
 [**Visiter le musée →**](https://m-u-c-k-a.github.io/musee-imaginaire/)
@@ -42,7 +42,7 @@ on **s'approche** d'une œuvre. Chacun a été conçu comme un objet, avant d'ê
 </picture>
 
 L'accueil est un accrochage « à la salon », comme au XIXᵉ siècle : toutes les œuvres sur une
-seule paroi, sans hiérarchie. En pratique, c'est **une scène WebGL** de 208 plans texturés,
+seule paroi, sans hiérarchie. En pratique, c'est **une scène WebGL** de 228 plans texturés,
 disposés en colonnes qui bouclent dans les deux axes : on peut glisser à l'infini.
 
 - **La courbure.** Le vertex shader repousse chaque sommet en profondeur selon sa distance au

@@ -384,6 +384,17 @@
   },
   "v": "cc01e1e4"
  },
+ "evolution-n13": {
+  "w": 1920,
+  "h": 1475,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABwAgCdASoQAAwAA4BaJQBOgMWHurq6m273fDVAAP5kmiKUuyQxQfydvv4HTOdAxHvWGbAspy0Ata71lbgbsP6T5s/+/FSPvTf/K+ZAh2Hfdn78pLR8OwIWfQtoUYcQAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1475
+  },
+  "v": "d5a0385f"
+ },
  "femme-a-sa-toilette": {
   "w": 1920,
   "h": 1437,
@@ -559,6 +570,17 @@
    "h": 2646
   },
   "v": "ffdd2b56"
+ },
+ "jardin-de-ferme-avec-tournesols": {
+  "w": 1920,
+  "h": 1946,
+  "color": "#788878",
+  "blur": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAABwAQCdASoQABAAA4BaJQBOgBLCMAD9JjeRECfSTStO5V21+kLaeUYsI8CAttAA",
+  "src": {
+   "w": 1920,
+   "h": 1946
+  },
+  "v": "22838847"
  },
  "jardins-publics": {
   "w": 1086,
@@ -769,6 +791,17 @@
   },
   "v": "c113ec99"
  },
+ "l-espoir-ii": {
+  "w": 1920,
+  "h": 1947,
+  "color": "#383818",
+  "blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoQABAAA4BaJbACdADp8/iXDRlAAP7jRYu4rgSnD52A9jegMCZeQUrNCr9cyZk4+ho+beey+lDYuOjKWYNMhiFkWAA=",
+  "src": {
+   "w": 1920,
+   "h": 1947
+  },
+  "v": "2edd530f"
+ },
  "l-homme-de-vitruve": {
   "w": 1766,
   "h": 2400,
@@ -868,6 +901,17 @@
   },
   "v": "b1f21cfb"
  },
+ "la-colombe-n1": {
+  "w": 1828,
+  "h": 2400,
+  "color": "#c8c8c8",
+  "blur": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAwAgCdASoMABAAA4BaJQBWACKVUl0+hHMQAAD+4UF+nwalFtWF2KIiKUlEq7I7VydGu2oe+5wf4QuAAAA=",
+  "src": {
+   "w": 1920,
+   "h": 2521
+  },
+  "v": "892a80ad"
+ },
  "la-colonne-brisee": {
   "w": 270,
   "h": 358,
@@ -900,6 +944,17 @@
    "h": 1920
   },
   "v": "979f8c85"
+ },
+ "la-dame-a-l-eventail": {
+  "w": 1920,
+  "h": 1912,
+  "color": "#383838",
+  "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQABAAA4BaJbACdAECm4AbSgd4APzh+MloM40Cp2axihHv5bJRn887Y8E6WQXwhN5iobyK0yOgYsEKUe5ekcArKX1LXU8ji2jcnBXeRgCfqoDvKJjZQDIfAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1912
+  },
+  "v": "9934b4a7"
  },
  "la-dame-a-l-hermine": {
   "w": 1785,
@@ -988,6 +1043,17 @@
    "h": 1400
   },
   "v": "0e82ad33"
+ },
+ "la-frise-beethoven": {
+  "w": 1788,
+  "h": 2400,
+  "color": "#d8c8b8",
+  "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoMABAAA4BaJbACdAEVlTUotSJAAP5a5Lbcpm20q8ov2Wf9+T1kF3U3fZz6a123G0uADj58dDp4pvyeVB26i6uCepM4HQAA",
+  "src": {
+   "w": 1920,
+   "h": 2577
+  },
+  "v": "d3f9870d"
  },
  "la-gare-saint-lazare": {
   "w": 1920,
@@ -1120,6 +1186,17 @@
    "h": 1615
   },
   "v": "4be30fc8"
+ },
+ "la-mort-et-la-vie": {
+  "w": 1920,
+  "h": 1671,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoQAA4AA4BaJYwC7ADiZDFYkEAA/unjqu9ytXyJKpOXguJEHMhNWKT8Q19fqd6AiJFcOHoxzEes98yZqXTsDeCQvq91ze4AAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1671
+  },
+  "v": "68a42912"
  },
  "la-naissance-de-venus": {
   "w": 1920,
@@ -1297,6 +1374,17 @@
   },
   "v": "42abd1bc"
  },
+ "la-vierge": {
+  "w": 1920,
+  "h": 1835,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoQAA8AA4BaJQBdgBnUlGJdV+KoAP70neuKzmJ2XSZqzjU7GvgrCQNOJITzYwaVC/UvAoOchh1bkIpStmSqXo2E2+BlX5c0qT4Q/yTOfjq5vKR9Rjzex6NX/r3v5IihqMPYDBYWgAA=",
+  "src": {
+   "w": 1920,
+   "h": 1835
+  },
+  "v": "48c0b574"
+ },
  "la-vierge-aux-rochers": {
   "w": 1513,
   "h": 2400,
@@ -1418,6 +1506,17 @@
   },
   "v": "ffcff7f3"
  },
+ "le-chateau-de-kammer": {
+  "w": 1920,
+  "h": 1937,
+  "color": "#789888",
+  "blur": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAQCdASoQABAAA4BaJQBOgBnP+VAA6UBCbDRMI+/Oyia7+++b/oSDG3YefYzHQHnRStzYMPgXojAA",
+  "src": {
+   "w": 1920,
+   "h": 1937
+  },
+  "v": "1adf7bd9"
+ },
  "le-chien": {
   "w": 1414,
   "h": 2400,
@@ -1461,6 +1560,17 @@
    "h": 2415
   },
   "v": "a4f38f3b"
+ },
+ "le-cygne-n1": {
+  "w": 1920,
+  "h": 1933,
+  "color": "#282828",
+  "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoQABAAA4BaJZwAD4uvv9HzzVxqkP4YAP70MvmusrK4B1RVd/4PYOb15y6HxAtObuq92k62rSVaMqnTr3nRvhWPOVPpIhP5HoyvO+4v92v/Uf7yywRAdYEefz++LRq6Agc8SjvkWGMm3wAA",
+  "src": {
+   "w": 1920,
+   "h": 1933
+  },
+  "v": "5b3cc747"
  },
  "le-cygne-n12": {
   "w": 1920,
@@ -1649,6 +1759,39 @@
   },
   "v": "a902fdf0"
  },
+ "les-dix-plus-grands-n1": {
+  "w": 1746,
+  "h": 2400,
+  "color": "#385878",
+  "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoMABAAA4BaJZACdAEYEWQM4ZngAP4lyUsY6NejcrZgEd9+Ydra7nrzZTQzU4X6jyI7uBTUo6johEVTsd57pFit0IvI0ZP6KCKs6O8ylD74cnrkqefKhCy/gAA=",
+  "src": {
+   "w": 1920,
+   "h": 2639
+  },
+  "v": "75294e45"
+ },
+ "les-dix-plus-grands-n10": {
+  "w": 1702,
+  "h": 2400,
+  "color": "#d8c8c8",
+  "blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoLABAAA4BaJYgCdAEWudz2FPMAAP6zdzbSZQwffkD19ZsZdf72B8M7APzuvdFxPSo2+8g2nBZ+s30IasvKI4tUAAA=",
+  "src": {
+   "w": 1920,
+   "h": 2707
+  },
+  "v": "f17adadc"
+ },
+ "les-dix-plus-grands-n2": {
+  "w": 1673,
+  "h": 2400,
+  "color": "#e88828",
+  "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoLABAAA4BaJbACdAECvGxHXtwAAPlAPuZYHqEkjufOYDvPDU5qfBaSsUHg/jh9izOTmJFV6+edoPEuKlJ+jc6uoeOz8rlYk+4XNYfvsAA=",
+  "src": {
+   "w": 1920,
+   "h": 2755
+  },
+  "v": "0e217eb2"
+ },
  "les-dix-plus-grands-n3": {
   "w": 1350,
   "h": 1800,
@@ -1660,6 +1803,17 @@
   },
   "v": "38a9ac38"
  },
+ "les-dix-plus-grands-n4": {
+  "w": 1785,
+  "h": 2400,
+  "color": "#c86828",
+  "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQAgCdASoMABAAA4BaJbACdLoAAzeZSvYeoAbMAAD41UfznEkb1qPlEtu8Bvf3zPoYptNc04AlM10KqWd3WjU4m0+bvrmJbtIUDidW9j66i8+y1zXIG/8Wo3N/kRRL/LQFHAAA",
+  "src": {
+   "w": 1920,
+   "h": 2582
+  },
+  "v": "41810623"
+ },
  "les-dix-plus-grands-n7": {
   "w": 1357,
   "h": 1800,
@@ -1670,6 +1824,17 @@
    "h": 1800
   },
   "v": "1f98e505"
+ },
+ "les-dix-plus-grands-n9": {
+  "w": 1761,
+  "h": 2400,
+  "color": "#c8b8a8",
+  "blur": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoMABAAA4BaJZgCdAENPYiLnAAA/pBOryzPi/d2I2DKaiIM4284QobXJ+sesoKPuIAAAA==",
+  "src": {
+   "w": 1920,
+   "h": 2616
+  },
+  "v": "67d936c4"
  },
  "les-fileuses": {
   "w": 1920,
@@ -2012,6 +2177,17 @@
   },
   "v": "fdf79d3b"
  },
+ "pallas-athena": {
+  "w": 1920,
+  "h": 1900,
+  "color": "#382838",
+  "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoQABAAA4BaJZgCdAD0jVOn+e4mAAD+S4bnNagCazsDFz5PWDnGK8ahsSh1pWoHO0d2QdZrhYZBIZXfdbVRIkg/h1jdDKndjz4IMdJJft5Jx9TwtU5X06mesuh+03ZXAnez0reulP55KAAA",
+  "src": {
+   "w": 1920,
+   "h": 1900
+  },
+  "v": "1a387203"
+ },
  "petite-danseuse-de-quatorze-ans": {
   "w": 1732,
   "h": 2400,
@@ -2055,6 +2231,28 @@
    "h": 1416
   },
   "v": "c47a73c1"
+ },
+ "portrait-d-adele-bloch-bauer-ii": {
+  "w": 1460,
+  "h": 2400,
+  "color": "#486858",
+  "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAQCdASoKABAAA4BaJQBOgBTsw5YAAP7AtKYevQ8p+ZPixKq8x2bhFKibSQtRN4q68hA+yxJbVfpE3+ANVp4AfNpSKr0VdwFXrgAA",
+  "src": {
+   "w": 1576,
+   "h": 2590
+  },
+  "v": "b7931f5b"
+ },
+ "portrait-d-emilie-floge": {
+  "w": 1054,
+  "h": 2400,
+  "color": "#384858",
+  "blur": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoHABAAA4BaJYwCdADzgqwPCAD+wGjfJHc8wK7X/vykOfkuTepRuQBtx9k6QDDkq+qgAA==",
+  "src": {
+   "w": 1920,
+   "h": 4372
+  },
+  "v": "0db668cd"
  },
  "portrait-d-innocent-x": {
   "w": 1881,
@@ -2111,6 +2309,17 @@
   },
   "v": "165b7dfb"
  },
+ "retable-n2": {
+  "w": 1804,
+  "h": 2400,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoMABAAA4BaJbACdADLurMV6agA/scjBhkk5Nvw7aPpbQoCXk40ODSUML1u3kzlHhQ4XiPTJFHqzrWzEeC5rdA1Ku7aqT9ZLMAAAA==",
+  "src": {
+   "w": 1920,
+   "h": 2555
+  },
+  "v": "5ab7b715"
+ },
  "reve-cause-par-le-vol-d-une-abeille": {
   "w": 281,
   "h": 354,
@@ -2143,6 +2352,17 @@
    "h": 2280
   },
   "v": "8f5b2ffa"
+ },
+ "serpents-d-eau-ii": {
+  "w": 1920,
+  "h": 1109,
+  "color": "#d8b898",
+  "blur": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAkAA4BaJZACdAE08ihzx4AA/rQBXNZz+FUltvKRMXke93fLPes1l53FUlTKIjQowiBFcvctEkZWisjYAAAA",
+  "src": {
+   "w": 1920,
+   "h": 1109
+  },
+  "v": "c6e55076"
  },
  "terrasse-du-cafe-le-soir": {
   "w": 1920,
