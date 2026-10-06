@@ -798,6 +798,23 @@
     "author": "Pablo Picasso",
     "credit": "PICASSO, la exposición del Reina-Prado. Guernica is in the collection of Museo Reina Sofia, Madrid.[1]"
   },
+  "hamlet": {
+    "title": "Hamlet",
+    "artist": "Alphonse Mucha",
+    "ref": "file:Hamlet. Tragique histoire d'Hamlet prince de Danemark. Sarah Bernhardt. Théâtre Sarah Bernhardt - affiche - Mucha 99 - btv1b9016315x.jpg",
+    "file": "Hamlet. Tragique histoire d'Hamlet prince de Danemark. Sarah Bernhardt. Théâtre Sarah Bernhardt - affiche - Mucha 99 - btv1b9016315x.jpg",
+    "width": 1920,
+    "height": 4976,
+    "originalWidth": 9769,
+    "originalHeight": 25317,
+    "mime": "image/jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hamlet._Tragique_histoire_d%27Hamlet_prince_de_Danemark._Sarah_Bernhardt._Th%C3%A9%C3%A2tre_Sarah_Bernhardt_-_affiche_-_Mucha_99_-_btv1b9016315x.jpg",
+    "repository": "shared",
+    "license": "Public domain",
+    "nonFree": false,
+    "author": "Mucha, Alphonse (1860-1939). Illustrateur",
+    "credit": "Bibliothèque nationale de France"
+  },
   "house-by-the-railroad": {
     "title": "House by the Railroad",
     "artist": "Edward Hopper",
@@ -954,19 +971,19 @@
   "job": {
     "title": "Job",
     "artist": "Alphonse Mucha",
-    "ref": "search:Alfons Mucha 1896 Job",
-    "file": "Alfons mucha, job, litografia, 1896.jpg",
+    "ref": "file:Job (papier à cigarettes) - (affiche) (Variante de lettre) - Mucha - btv1b90050886.jpg",
+    "file": "Job (papier à cigarettes) - (affiche) (Variante de lettre) - Mucha - btv1b90050886.jpg",
     "width": 1920,
-    "height": 2513,
-    "originalWidth": 1996,
-    "originalHeight": 2612,
+    "height": 2759,
+    "originalWidth": 5784,
+    "originalHeight": 8311,
     "mime": "image/jpeg",
-    "page": "https://commons.wikimedia.org/wiki/File:Alfons_mucha,_job,_litografia,_1896.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Job_(papier_%C3%A0_cigarettes)_-_(affiche)_(Variante_de_lettre)_-_Mucha_-_btv1b90050886.jpg",
     "repository": "shared",
-    "license": "CC BY-SA 4.0",
+    "license": "Public domain",
     "nonFree": false,
-    "author": "Sailko",
-    "credit": "Own work"
+    "author": "Mucha, Alphonse (1860-1939). Illustrateur",
+    "credit": "Bibliothèque nationale de France"
   },
   "jour-d-ete": {
     "title": "Jour d'été",
@@ -1086,6 +1103,23 @@
     "nonFree": false,
     "author": "Alexandre Cabanel",
     "credit": "https://en.artsdot.com/@@/8BWMPJ-Alexandre%20Cabanel-Fallen%20Angel"
+  },
+  "l-apotheose-des-slaves": {
+    "title": "L'Épopée slave : l'Apothéose des Slaves",
+    "artist": "Alphonse Mucha",
+    "ref": "file:Mucha Apoteoza.jpg",
+    "file": "Mucha Apoteoza.jpg",
+    "width": 1920,
+    "height": 2323,
+    "originalWidth": 2382,
+    "originalHeight": 2882,
+    "mime": "image/jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mucha_Apoteoza.jpg",
+    "repository": "shared",
+    "license": "Public domain",
+    "nonFree": false,
+    "author": "Alfons Mucha",
+    "credit": "http://www.reflex.cz/galerie/kultura/10414/?foto=12"
   },
   "l-apparition": {
     "title": "L'Apparition",
@@ -1494,6 +1528,23 @@
     "nonFree": false,
     "author": "Leonardo da Vinci",
     "credit": "File:Lady_with_an_Ermine_-_Leonardo_da_Vinci_-_Google_Art_Project.jpg"
+  },
+  "la-dame-aux-camelias": {
+    "title": "La Dame aux camélias",
+    "artist": "Alphonse Mucha",
+    "ref": "file:La Dame aux Camélias. Sarah Bernhardt. Théâtre de La Renaissance - affiche - Mucha - btv1b9016284t.jpg",
+    "file": "La Dame aux Camélias. Sarah Bernhardt. Théâtre de La Renaissance - affiche - Mucha - btv1b9016284t.jpg",
+    "width": 1920,
+    "height": 4920,
+    "originalWidth": 9727,
+    "originalHeight": 24923,
+    "mime": "image/jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:La_Dame_aux_Cam%C3%A9lias._Sarah_Bernhardt._Th%C3%A9%C3%A2tre_de_La_Renaissance_-_affiche_-_Mucha_-_btv1b9016284t.jpg",
+    "repository": "shared",
+    "license": "Public domain",
+    "nonFree": false,
+    "author": "Mucha, Alphonse (1860-1939). Illustrateur",
+    "credit": "Bibliothèque nationale de France"
   },
   "la-dame-de-shalott": {
     "title": "La Dame de Shalott",
@@ -2685,6 +2736,23 @@
     "author": "René Magritte",
     "credit": "https://www.moma.org/magazine/articles/1018"
   },
+  "les-arts-la-danse": {
+    "title": "Les Arts : la Danse",
+    "artist": "Alphonse Mucha",
+    "ref": "file:Alfons Mucha - The Arts Dance, 1898.jpg",
+    "file": "Alfons Mucha - The Arts Dance, 1898.jpg",
+    "width": 1920,
+    "height": 2921,
+    "originalWidth": 1159,
+    "originalHeight": 1763,
+    "mime": "image/jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Alfons_Mucha_-_The_Arts_Dance,_1898.jpg",
+    "repository": "shared",
+    "license": "Public domain",
+    "nonFree": false,
+    "author": "Alphonse Mucha",
+    "credit": "[1][2]"
+  },
   "les-demoiselles-d-avignon": {
     "title": "Les Demoiselles d'Avignon",
     "artist": "Pablo Picasso",
@@ -2991,6 +3059,23 @@
     "author": "William-Adolphe Bouguereau",
     "credit": "1. media.photobucket.com2. gallerix.ru"
   },
+  "les-pierres-precieuses": {
+    "title": "Les Pierres précieuses",
+    "artist": "Alphonse Mucha",
+    "ref": "file:Alfons Mucha - The Precious Stones (series), 1900.jpg",
+    "file": "Alfons Mucha - The Precious Stones (series), 1900.jpg",
+    "width": 1920,
+    "height": 1225,
+    "originalWidth": 1816,
+    "originalHeight": 1159,
+    "mime": "image/jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Alfons_Mucha_-_The_Precious_Stones_(series),_1900.jpg",
+    "repository": "shared",
+    "license": "Public domain",
+    "nonFree": false,
+    "author": "Alphonse Mucha",
+    "credit": "[1][2]"
+  },
   "les-quatre-arbres": {
     "title": "Les Quatre Arbres",
     "artist": "Egon Schiele",
@@ -3076,6 +3161,23 @@
     "author": "Pablo Picasso (1881-1973)",
     "credit": "https://www.moma.org/collection/works/78630"
   },
+  "lorenzaccio": {
+    "title": "Lorenzaccio",
+    "artist": "Alphonse Mucha",
+    "ref": "file:Lorenzaccio. Sarah Bernhardt. Théâtre de La Renaissance. - affiche - Mucha - btv1b90162946.jpg",
+    "file": "Lorenzaccio. Sarah Bernhardt. Théâtre de La Renaissance. - affiche - Mucha - btv1b90162946.jpg",
+    "width": 1920,
+    "height": 4813,
+    "originalWidth": 9946,
+    "originalHeight": 24934,
+    "mime": "image/jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lorenzaccio._Sarah_Bernhardt._Th%C3%A9%C3%A2tre_de_La_Renaissance._-_affiche_-_Mucha_-_btv1b90162946.jpg",
+    "repository": "shared",
+    "license": "Public domain",
+    "nonFree": false,
+    "author": "Mucha, Alphonse (1860-1939). Illustrateur",
+    "credit": "Bibliothèque nationale de France"
+  },
   "luxe-calme-et-volupte": {
     "title": "Luxe, calme et volupté",
     "artist": "Henri Matisse",
@@ -3092,6 +3194,23 @@
     "nonFree": false,
     "author": "Henri Matisse",
     "credit": "www.mcs.csuhayward.edu, 1 January 2008"
+  },
+  "medee": {
+    "title": "Médée",
+    "artist": "Alphonse Mucha",
+    "ref": "file:Médée. Théâtre de La Renaissance. Sarah Bernhardt - affiche - Mucha - btv1b9016288g.jpg",
+    "file": "Médée. Théâtre de La Renaissance. Sarah Bernhardt - affiche - Mucha - btv1b9016288g.jpg",
+    "width": 1920,
+    "height": 4833,
+    "originalWidth": 9881,
+    "originalHeight": 24871,
+    "mime": "image/jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:M%C3%A9d%C3%A9e._Th%C3%A9%C3%A2tre_de_La_Renaissance._Sarah_Bernhardt_-_affiche_-_Mucha_-_btv1b9016288g.jpg",
+    "repository": "shared",
+    "license": "Public domain",
+    "nonFree": false,
+    "author": "Mucha, Alphonse (1860-1939). Illustrateur",
+    "credit": "Bibliothèque nationale de France"
   },
   "meduse": {
     "title": "Méduse",
@@ -3160,6 +3279,23 @@
     "nonFree": false,
     "author": "Marc Chagall",
     "credit": "https://www.moma.org/collection/works/78984"
+  },
+  "monaco-monte-carlo": {
+    "title": "Monaco Monte-Carlo",
+    "artist": "Alphonse Mucha",
+    "ref": "file:Monaco, Monte-Carlo. Chemins de Fer P.L.M. affiche, Mucha 1897.jpg",
+    "file": "Monaco, Monte-Carlo. Chemins de Fer P.L.M. affiche, Mucha 1897.jpg",
+    "width": 1920,
+    "height": 2762,
+    "originalWidth": 9264,
+    "originalHeight": 13328,
+    "mime": "image/jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Monaco,_Monte-Carlo._Chemins_de_Fer_P.L.M._affiche,_Mucha_1897.jpg",
+    "repository": "shared",
+    "license": "Public domain",
+    "nonFree": false,
+    "author": "Mucha, Alphonse (1860-1939). Illustrateur",
+    "credit": "This file comes from Gallica Digital Library and is available under the digital ID btv1b52510805x"
   },
   "montagnes-a-collioure": {
     "title": "Montagnes à Collioure",
@@ -3603,6 +3739,40 @@
     "author": null,
     "credit": null
   },
+  "reverie": {
+    "title": "Rêverie",
+    "artist": "Alphonse Mucha",
+    "ref": "file:Reverie 1897.jpg",
+    "file": "Reverie 1897.jpg",
+    "width": 1920,
+    "height": 2571,
+    "originalWidth": 1621,
+    "originalHeight": 2171,
+    "mime": "image/jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Reverie_1897.jpg",
+    "repository": "shared",
+    "license": "Public domain",
+    "nonFree": false,
+    "author": "Alphonse Mucha",
+    "credit": "http://www.wm-painting.ru/MasterPieces/p19_sectionid/58/p19_imageid/1568"
+  },
+  "salon-des-cent": {
+    "title": "Salon des Cent",
+    "artist": "Alphonse Mucha",
+    "ref": "file:Salon des Cent. XXme exposition du Salon des Cent (mars-avril 1896), hall de la Plume.jpg",
+    "file": "Salon des Cent. XXme exposition du Salon des Cent (mars-avril 1896), hall de la Plume.jpg",
+    "width": 1920,
+    "height": 2813,
+    "originalWidth": 5562,
+    "originalHeight": 8150,
+    "mime": "image/jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Salon_des_Cent._XXme_exposition_du_Salon_des_Cent_(mars-avril_1896),_hall_de_la_Plume.jpg",
+    "repository": "shared",
+    "license": "Public domain",
+    "nonFree": false,
+    "author": "Alphonse Mucha",
+    "credit": "This file comes from Gallica Digital Library and is available under the digital ID btv1b9005163q"
+  },
   "saturne-devorant-un-de-ses-fils": {
     "title": "Saturne dévorant un de ses fils",
     "artist": "Francisco de Goya",
@@ -3670,6 +3840,23 @@
     "nonFree": false,
     "author": "Vincent van Gogh",
     "credit": "https://data.collectienederland.nl/page/aggregation/kroller-muller/44529"
+  },
+  "tete-byzantine-la-brune": {
+    "title": "Tête byzantine : la Brune",
+    "artist": "Alphonse Mucha",
+    "ref": "file:Tête byzantine brune.jpg",
+    "file": "Tête byzantine brune.jpg",
+    "width": 1920,
+    "height": 2224,
+    "originalWidth": 4042,
+    "originalHeight": 4683,
+    "mime": "image/jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:T%C3%AAte_byzantine_brune.jpg",
+    "repository": "shared",
+    "license": "Public domain",
+    "nonFree": false,
+    "author": "Alphonse Mucha",
+    "credit": "This file comes from Gallica Digital Library and is available under the digital ID btv1b9003240f"
   },
   "tete-modigliani": {
     "title": "Tête de femme",

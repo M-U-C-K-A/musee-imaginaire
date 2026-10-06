@@ -516,6 +516,17 @@
   },
   "v": "a154bf63"
  },
+ "hamlet": {
+  "w": 926,
+  "h": 2400,
+  "color": "#080818",
+  "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoGABAAA4BaJQBOgCHfZ7xgVyAA/jNmbzLBfAd+XE3tlZkFyuFZvJ+EmQWoQsSXcwSSXpATVKkTKxWQjEDgDyi/P4IxRzgA",
+  "src": {
+   "w": 1920,
+   "h": 4976
+  },
+  "v": "b74bdca4"
+ },
  "house-by-the-railroad": {
   "w": 1920,
   "h": 1590,
@@ -616,15 +627,15 @@
   "v": "a8e11ba1"
  },
  "job": {
-  "w": 1834,
+  "w": 1670,
   "h": 2400,
-  "color": "#d8a868",
-  "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoMABAAA4BaJbACdAYuvqc36z9YpMAA+VEZDimW2R3G/xCDARj7j/oRRhq76n+f211Vx6w5BjahpDX+kcRNsSnjDis5AedWiG+ckwlC0OJXtUpw161s7VswZgAAAA==",
+  "color": "#e8e8d8",
+  "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwAgCdASoLABAAA4BaJZQCdAEQytGBXtUGAAD+uA5COfTB/Rr45UkVlan9rjBkD2XuZOyehiluaWLbdm/kGzQOHGUw6oZVHVF74EUjQDsBwuJB/2a2V41zo4xsAA==",
   "src": {
    "w": 1920,
-   "h": 2513
+   "h": 2759
   },
-  "v": "a1edc36a"
+  "v": "6a468685"
  },
  "jour-d-ete": {
   "w": 1920,
@@ -702,6 +713,17 @@
    "h": 1312
   },
   "v": "212c17ad"
+ },
+ "l-apotheose-des-slaves": {
+  "w": 1920,
+  "h": 2323,
+  "color": "#585858",
+  "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoNABAAA4BaJbACdADdKNOl+ZBAAP7AbbfVjsNXDsybEQyd+Fu9misNODf4QOlcuA8jkMjUDsqDBn8uFQBlU4db0aaTXkcONhA75H6TuVAOzE4AAAA=",
+  "src": {
+   "w": 1920,
+   "h": 2323
+  },
+  "v": "d757b70f"
  },
  "l-apparition": {
   "w": 1617,
@@ -966,6 +988,17 @@
    "h": 2582
   },
   "v": "bfefa3c2"
+ },
+ "la-dame-aux-camelias": {
+  "w": 937,
+  "h": 2400,
+  "color": "#c8b8a8",
+  "blur": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoGABAAA4BaJQBOgCHh52FOSyAA8/di6D0fSqbiGRSotqvEJ/jAskbQNPkyNP3hDRRewfgAAAA=",
+  "src": {
+   "w": 1920,
+   "h": 4920
+  },
+  "v": "fb31c08c"
  },
  "la-dame-de-shalott": {
   "w": 1920,
@@ -1737,6 +1770,17 @@
   },
   "v": "55412e0c"
  },
+ "les-arts-la-danse": {
+  "w": 1159,
+  "h": 1763,
+  "color": "#e8e8d8",
+  "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoKABAAA4BaJYgCdADbmKiobeRQAAD+aEgYB2jTI87fSJJ5BIKVNpLKG0SOsogUxU2HKrx/vH5k8qZCb9Xm9vVIMHxNQNICQ5LyCCFkAAA=",
+  "src": {
+   "w": 1159,
+   "h": 1763
+  },
+  "v": "fc14ebc6"
+ },
  "les-demoiselles-d-avignon": {
   "w": 1920,
   "h": 1989,
@@ -1935,6 +1979,17 @@
   },
   "v": "689fcf8b"
  },
+ "les-pierres-precieuses": {
+  "w": 1816,
+  "h": 1159,
+  "color": "#f8e8e8",
+  "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoQAAoAA4BaJagCdAEQEyVDpygAAP6RDUXfoOE4gPnoEa49g07GnL1VbBx9ryvHOx3LMlbf1HnspBRIDkAdNUSvXotUSPUvvz98L9syylgAAA==",
+  "src": {
+   "w": 1816,
+   "h": 1159
+  },
+  "v": "2e760d3b"
+ },
  "les-quatre-arbres": {
   "w": 1920,
   "h": 1536,
@@ -1990,6 +2045,17 @@
   },
   "v": "54f88838"
  },
+ "lorenzaccio": {
+  "w": 957,
+  "h": 2400,
+  "color": "#180818",
+  "blur": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoGABAAA4BaJZQAAxPvuWxNYMAA/s8mIPzdwsBz9qMZdeUfF7CQFtR5UrHlSFX3AdKGFfbCtWPvF4ZgAAA=",
+  "src": {
+   "w": 1920,
+   "h": 4813
+  },
+  "v": "50fec5e2"
+ },
  "luxe-calme-et-volupte": {
   "w": 1779,
   "h": 1467,
@@ -2000,6 +2066,17 @@
    "h": 1467
   },
   "v": "bd1b8bbb"
+ },
+ "medee": {
+  "w": 953,
+  "h": 2400,
+  "color": "#c8b8a8",
+  "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoGABAAA4BaJQBOgCLKGcU96IAA/oWPZGoCFPW0jxIcU5cbdoyzrfqxPW/07/aFZ7MVGzlwuc+0NpoNONPc7cou8TYAAA==",
+  "src": {
+   "w": 1920,
+   "h": 4833
+  },
+  "v": "f01db82b"
  },
  "meduse": {
   "w": 1920,
@@ -2044,6 +2121,17 @@
    "h": 2000
   },
   "v": "e73aac60"
+ },
+ "monaco-monte-carlo": {
+  "w": 1668,
+  "h": 2400,
+  "color": "#e8e8c8",
+  "blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoLABAAA4BaJZgCdAEPAbVhpmyAAP7JQzTSTcsIUqT9ehB9AAC82tEitgsGuGpGnaBs1z4Gr8YK9qZ9cXM/bRMsoAA=",
+  "src": {
+   "w": 1920,
+   "h": 2762
+  },
+  "v": "ebe4fa1f"
  },
  "montagnes-a-collioure": {
   "w": 1920,
@@ -2331,6 +2419,28 @@
   },
   "v": "44559413"
  },
+ "reverie": {
+  "w": 1621,
+  "h": 2171,
+  "color": "#c8c8b8",
+  "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAABwAgCdASoMABAAA4BaJQBOgZYMMArvrZ2ILCEgAP5zqbGkhzZY1Xq7nJfc3s7PFIRkY4gy9CEjwVErmnATkbWfa4D7eQEzpaOgFd7IjSHM5P5LSxAAAA==",
+  "src": {
+   "w": 1621,
+   "h": 2171
+  },
+  "v": "3fae1009"
+ },
+ "salon-des-cent": {
+  "w": 1638,
+  "h": 2400,
+  "color": "#b8a888",
+  "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoLABAAA4BaJZACdAEKbikfScQAAM4CvvRFDfkaEG1Q13Q7F1r3vqi+VYRm9Gqid6SEbePwF6Xa2otJ1Y+pHaqAkV+reVgCYEqN4GvetMVrBQqN+AAAAA==",
+  "src": {
+   "w": 1920,
+   "h": 2813
+  },
+  "v": "c7c2b9c3"
+ },
  "saturne-devorant-un-de-ses-fils": {
   "w": 1307,
   "h": 2400,
@@ -2374,6 +2484,17 @@
    "h": 2394
   },
   "v": "b7b30387"
+ },
+ "tete-byzantine-la-brune": {
+  "w": 1920,
+  "h": 2224,
+  "color": "#f8e8d8",
+  "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoOABAAA4BaJYgCdAYt9mnpAAVv8RoAAP7wr8ROqqeDxk99pVo7DBt1/1SyOsTvUOP/K5+oVx1cy01PK3ph+/6tnOhmSr0d5lY1Yt0tr3k5WquekYcUepLpbNSCggi73+ygFbrVgmXgpvEah6YVifGBgAA=",
+  "src": {
+   "w": 1920,
+   "h": 2224
+  },
+  "v": "c94009f5"
  },
  "tete-modigliani": {
   "w": 1600,
