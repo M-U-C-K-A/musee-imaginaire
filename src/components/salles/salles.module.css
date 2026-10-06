@@ -1,0 +1,222 @@
+.page {
+  position: relative;
+  padding-bottom: clamp(80px, 12vw, 180px);
+}
+
+/* Héros */
+.hero {
+  min-height: 100svh;
+  padding: calc(var(--header-h) + 24px) var(--gutter) var(--gutter);
+  display: grid;
+  grid-template-rows: auto 1fr auto auto;
+  gap: 32px;
+}
+.h1 {
+  align-self: center;
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: clamp(88px, 21vw, 380px);
+  line-height: 0.8;
+  letter-spacing: -0.045em;
+}
+.heroFoot {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: var(--gutter);
+  align-items: end;
+}
+.intro {
+  grid-column: 1 / 7;
+  font-family: var(--serif);
+  font-size: clamp(22px, 2.2vw, 34px);
+  line-height: 1.15;
+  text-wrap: pretty;
+}
+.stats {
+  grid-column: 9 / -1;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+.stats dd {
+  font-family: var(--serif);
+  font-size: clamp(36px, 4vw, 64px);
+  line-height: 1;
+  margin-top: 6px;
+}
+.toc {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 28px;
+  padding-top: 18px;
+  border-top: 1px solid var(--line);
+}
+.tocNum {
+  color: var(--accent);
+}
+
+/* Salle */
+.salle {
+  padding: clamp(100px, 13vw, 200px) var(--gutter) 0;
+  scroll-margin-top: 40px;
+}
+.salleHead {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: var(--gutter);
+  align-items: start;
+  margin-bottom: clamp(40px, 5vw, 72px);
+}
+.numeral {
+  grid-column: 1 / 5;
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: clamp(120px, 20vw, 340px);
+  line-height: 0.72;
+  letter-spacing: -0.04em;
+  color: var(--gold);
+  opacity: 0.9;
+}
+.salleText {
+  grid-column: 6 / -1;
+  display: grid;
+  gap: 18px;
+}
+.salleTitle {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: clamp(40px, 5.2vw, 88px);
+  line-height: 0.92;
+  letter-spacing: -0.025em;
+  text-wrap: balance;
+}
+.salleIntro {
+  font-size: 17px;
+  line-height: 1.6;
+  color: var(--paper-2);
+  max-width: 56ch;
+}
+
+/* Liste des artistes */
+.list {
+  list-style: none;
+  border-top: 1px solid var(--line);
+}
+.row {
+  position: relative;
+  display: grid;
+  grid-template-columns: 56px minmax(0, 5fr) 2fr 3fr 1.2fr;
+  gap: 16px;
+  align-items: baseline;
+  padding: 22px 0 20px;
+  border-bottom: 1px solid var(--line);
+  overflow: hidden;
+  isolation: isolate;
+}
+.row::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: var(--accent);
+  transform: scaleY(0);
+  transform-origin: bottom;
+  transition: transform 0.7s var(--ease);
+  z-index: -1;
+  opacity: 0.12;
+}
+.row:hover::before,
+.row:focus-visible::before {
+  transform: scaleY(1);
+}
+.rowName {
+  font-family: var(--serif);
+  font-size: clamp(30px, 4vw, 64px);
+  line-height: 0.95;
+  letter-spacing: -0.02em;
+  transition:
+    transform 0.7s var(--ease),
+    color 0.4s;
+}
+.row:hover .rowName {
+  transform: translateX(18px);
+  font-style: italic;
+  color: var(--accent);
+}
+.rowCount {
+  text-align: right;
+}
+.rowThumb {
+  display: none;
+}
+
+/* Aperçu flottant */
+.preview {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 40;
+  width: clamp(200px, 20vw, 320px);
+  aspect-ratio: 4 / 5;
+  pointer-events: none;
+  opacity: 0;
+  visibility: hidden;
+  overflow: hidden;
+}
+.previewImg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  transform: scale(1.15);
+  transition:
+    opacity 0.5s var(--ease),
+    transform 1.2s var(--ease);
+}
+.previewImg[data-on] {
+  opacity: 1;
+  transform: scale(1);
+}
+.previewCap {
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  right: 10px;
+  color: #ede6d9;
+  mix-blend-mode: difference;
+}
+
+@media (max-width: 899px) {
+  .intro,
+  .stats,
+  .numeral,
+  .salleText {
+    grid-column: 1 / -1;
+  }
+  .row {
+    grid-template-columns: 1fr 72px;
+    grid-template-areas: 'name thumb' 'dates thumb' 'move thumb';
+    gap: 4px 16px;
+  }
+  .rowNum,
+  .rowCount {
+    display: none;
+  }
+  .rowName { grid-area: name; }
+  .rowDates { grid-area: dates; }
+  .rowMove { grid-area: move; }
+  .rowThumb {
+    grid-area: thumb;
+    display: block;
+    align-self: center;
+  }
+  .rowThumb img {
+    width: 72px;
+    height: 72px;
+    object-fit: cover;
+  }
+  .preview {
+    display: none;
+  }
+}

@@ -1,0 +1,205 @@
+.page {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+}
+
+.surface {
+  position: absolute;
+  inset: 0;
+  touch-action: none;
+  user-select: none;
+  -webkit-user-select: none;
+  outline: none;
+}
+
+/* ── Titre central ─────────────────────────────────────────────────── */
+
+.title {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-content: center;
+  text-align: center;
+  pointer-events: none;
+  mix-blend-mode: difference;
+  color: #ede6d9;
+  will-change: transform, opacity, filter;
+}
+
+.h1 {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: clamp(64px, 13.5vw, 240px);
+  line-height: 0.84;
+  letter-spacing: -0.035em;
+  display: grid;
+}
+
+.lede {
+  margin-top: clamp(20px, 3vw, 40px);
+  opacity: 0.8;
+}
+
+/* ── Légende au survol ─────────────────────────────────────────────── */
+
+.caption {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 4;
+  display: grid;
+  gap: 6px;
+  max-width: 340px;
+  pointer-events: none;
+  opacity: 0;
+  visibility: hidden;
+}
+.capLine {
+  display: block;
+  overflow: clip;
+}
+.capLine > span {
+  display: block;
+}
+.capTitle {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 30px;
+  line-height: 1;
+  letter-spacing: -0.01em;
+  text-wrap: balance;
+}
+
+/* ── Interface basse ───────────────────────────────────────────────── */
+
+.ui {
+  position: absolute;
+  inset: auto 0 0;
+  padding: 0 var(--gutter) calc(var(--gutter) * 0.9);
+  pointer-events: none;
+  display: grid;
+  gap: 18px;
+}
+.ui > * {
+  pointer-events: auto;
+}
+
+.hint {
+  justify-self: center;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--paper-2);
+  pointer-events: none !important;
+  mix-blend-mode: difference;
+}
+.hintIcon {
+  display: inline-block;
+  animation: sway 2.4s var(--ease-museum) infinite;
+}
+@keyframes sway {
+  0%,
+  100% { transform: translateX(-3px); }
+  50% { transform: translateX(3px); }
+}
+
+.bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+}
+
+.filters {
+  display: flex;
+  gap: 4px 16px;
+  flex-wrap: wrap;
+}
+
+.chip {
+  padding: 6px 0;
+  color: var(--paper-3);
+  transition: color 0.4s var(--ease);
+  position: relative;
+}
+.chip:hover {
+  color: var(--paper);
+}
+.chip[aria-pressed='true'] {
+  color: var(--paper);
+}
+.chip[aria-pressed='true']::before {
+  content: '';
+  position: absolute;
+  left: -10px;
+  top: 50%;
+  width: 4px;
+  height: 4px;
+  margin-top: -2px;
+  border-radius: 50%;
+  background: var(--accent);
+}
+.num {
+  color: var(--accent);
+  margin-right: 2px;
+}
+
+.meta {
+  display: flex;
+  gap: 24px;
+  align-items: center;
+  white-space: nowrap;
+}
+
+@media (max-width: 1100px) {
+  .bar {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+  }
+  .filters {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scrollbar-width: none;
+    padding-left: 10px;
+    margin-left: -10px;
+  }
+  .filters::-webkit-scrollbar {
+    display: none;
+  }
+  .chip {
+    white-space: nowrap;
+  }
+  .meta {
+    justify-content: space-between;
+  }
+}
+
+@media (hover: none) {
+  .caption {
+    display: none;
+  }
+}
+
+/* ── Repli sans WebGL ──────────────────────────────────────────────── */
+
+.fallback {
+  position: absolute;
+  inset: 0;
+  overflow-y: auto;
+  padding: calc(var(--header-h) + 20px) var(--gutter) 160px;
+  columns: 5 220px;
+  column-gap: 24px;
+}
+.fbItem {
+  display: block;
+  margin-bottom: 24px;
+  break-inside: avoid;
+}
+.fbItem img {
+  width: 100%;
+  height: auto;
+}

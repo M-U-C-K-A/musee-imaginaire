@@ -1,0 +1,2290 @@
+{
+ "amandier-en-fleurs": {
+  "w": 1920,
+  "h": 1517,
+  "color": "#78a8a8",
+  "blur": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACQAQCdASoQAA0AA4BaJYgCdACES3AA/enMtmYCgemqhQbGnuPGbAdTCbHXhcCMJpLDAAAA",
+  "src": {
+   "w": 1920,
+   "h": 1517
+  },
+  "v": "0e7ded5b"
+ },
+ "arearea": {
+  "w": 1920,
+  "h": 1512,
+  "color": "#585838",
+  "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAQCdASoQAA0AA4BaJbACdAEeXb6AAAD6iD34J1SzXASxGNrOV4lKYs9GV841ZlWKudaeiQvohzClJrKTDMKGuu1M6pC0U9MOOnn/1zPXWexBixp+8hh5eIJEtH/AAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1512
+  },
+  "v": "afebdaa0"
+ },
+ "aristide-bruant": {
+  "w": 1642,
+  "h": 2400,
+  "color": "#283838",
+  "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoLABAAA4BaJbACdAD0S9QbGEaIAPlRGzrdNWpeGBysA76/YlNcunycqAltmvAjecZZMkx6XxQ3rJt9ewLjmiZA+zZTFJMIOZIdyw6J7wIenEsQEcCdK4KS0FTZvL+Ody4AAA==",
+  "src": {
+   "w": 1920,
+   "h": 2806
+  },
+  "v": "84f56cd9"
+ },
+ "au-lit": {
+  "w": 1920,
+  "h": 1478,
+  "color": "#c8c8a8",
+  "blur": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoQAAwAA4BaJQBOgCHhcMYwK2AA/pePdUynITZCaxtJfrkjwCEA3LvScoDVFmYA",
+  "src": {
+   "w": 1920,
+   "h": 1478
+  },
+  "v": "8dce6bc6"
+ },
+ "au-moulin-rouge": {
+  "w": 1392,
+  "h": 1218,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoQAA4AA4BaJaACdADjd0qf/AAA/tyXWMTihKqUXFPjlehW51LOEKQTXf6Uv5keEGwvg0WToGwUiki+83YmCsWGZ1bSt89BjFwpL4AA",
+  "src": {
+   "w": 1392,
+   "h": 1218
+  },
+  "v": "d58bdece"
+ },
+ "automat": {
+  "w": 1920,
+  "h": 1492,
+  "color": "#283848",
+  "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoQAAwAA4BaJQBOgB8nhi2ckSYAAP6fTCXUEcV9fahV2BmRBmBWIiRMa21k0psX2WMQj2XwO4nKpNgQ4NnP3q/iGrNTHmGa9K5QS8RW4AA=",
+  "src": {
+   "w": 1920,
+   "h": 1492
+  },
+  "v": "b244c478"
+ },
+ "autoportrait-au-collier-d-epines": {
+  "w": 277,
+  "h": 360,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoMABAAA4BaJbACdAELh0qxZ3oz8AD+fTw+o1G6gIbS8DvWp00pE+dr0ilWRGEayhWhH5kJE9dcUVFHiI+VKANThFTyh2U5Z76bBmD9oM+w3uxepYi1ZndWXmmw/d2yjnPKjLHoAAA=",
+  "src": {
+   "w": 277,
+   "h": 360
+  },
+  "v": "7c6b0577"
+ },
+ "autoportrait-au-coqueret": {
+  "w": 1920,
+  "h": 1555,
+  "color": "#e8e8d8",
+  "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoQAA0AA4BaJQBOgMX6u5hnn+AMn8AA/pSjy6Msf5VmlN48TiiyKiA8xR9fZ1K5LGTbWRYhBnUG1RLreq8+65PuTlYrU6V8lelrUsE3r5AeJXnsq1869yAAAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1555
+  },
+  "v": "2a9fb0a8"
+ },
+ "autoportrait-aux-deux-cercles": {
+  "w": 1920,
+  "h": 2314,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoNABAAA4BaJZgCdADz5vlFRPIA/iJU6sqJfB6Ajfx9Ka7/5afLAfggSOXxQ2to7xyCOnaq7nv1UbwcimlPlUAA",
+  "src": {
+   "w": 1920,
+   "h": 2314
+  },
+  "v": "45c2b143"
+ },
+ "autoportrait-aux-sept-doigts": {
+  "w": 513,
+  "h": 600,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAACQAgCdASoOABAAA4BaJbACdEf/i1ZM8pyk3h2hAAD+qoXwSznKR9IUcUM+MG0UYTIYQNDraZHMYKxsdO+lyvXypZml9NUh3iaUt5W00V/eYvHcgrZzQ57zWCP1b9GXyMO+3WyvbPQ/AqjcL6VgSzg2XwaVv0hyrjMTRQkJZP/3aSvKXnOqLk/gAAA=",
+  "src": {
+   "w": 513,
+   "h": 600
+  },
+  "v": "8f3c20b1"
+ },
+ "autumn-rhythm": {
+  "w": 444,
+  "h": 224,
+  "color": "#d8c8a8",
+  "blur": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoQAAgAA4BaJQBOgCHwvQhJe5AA/LKKk6NziPi9QMeLW3D+vIhXtkQnboo8T37fYKUhmyd4gAA=",
+  "src": {
+   "w": 444,
+   "h": 224
+  },
+  "v": "955f6113"
+ },
+ "bacchus": {
+  "w": 1920,
+  "h": 2239,
+  "color": "#282828",
+  "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoOABAAA4BaJZQCdH8AgoScLmP5/6AA/vbgYJSPKYft96MNZVkX+Su7A1xqlXmtFtXxZ6Ei2/TNAkq2nDMeYnFzmVtJrys4JmEyi/y3/hc2fEf/iakRWLOtceKWNGJIAAA=",
+  "src": {
+   "w": 1920,
+   "h": 2239
+  },
+  "v": "1a8e6e67"
+ },
+ "bal-du-moulin-de-la-galette": {
+  "w": 1920,
+  "h": 1427,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoQAAwAA4BaJQBOgMWv2BAIcDcgAP6//5omJElAPgSSvYXkXAwmtKgdSs8GfKQXjPq0jS5w7XkQwfmXl6dv0A+mcAn5E6ZXa8C7o+if3S9WBRMQszgA0AV7cR8AjlLlQSgAAA==",
+  "src": {
+   "w": 1920,
+   "h": 1427
+  },
+  "v": "71226a6b"
+ },
+ "big-ben": {
+  "w": 1920,
+  "h": 1559,
+  "color": "#384888",
+  "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoQAA0AA4BaJbACdACRKFldzAAA/iLo59DGsmcEE/MsbliijK+0TMEcdOjdBrk9ouG0aDQQXfI8EAkq4KWp4vo5U0k08umgAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1559
+  },
+  "v": "88945712"
+ },
+ "blue-poles": {
+  "w": 485,
+  "h": 206,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAcAA4BaJQBOgB4hSMXfDQAA/STmPevZZXgVeieLp3WsBnTpt5tbeQr1/tXwUpuYqr9MQ3dMxhNJKJbAAA==",
+  "src": {
+   "w": 485,
+   "h": 206
+  },
+  "v": "0f78fd4a"
+ },
+ "broadway-boogie-woogie": {
+  "w": 1920,
+  "h": 1923,
+  "color": "#e8e8e8",
+  "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoQABAAA4BaJbACdAYxjEa1ZvnwAP7fC3xMw5sfKC0j3XA0V+cL1VZWTpMakdlwgVYhWykZUSql140P61rA0jcgd6LnHFeMMYxFrrh/ZyAn/YWhMPgo0j1wtsTQAOReZp6IAAAA",
+  "src": {
+   "w": 1920,
+   "h": 1923
+  },
+  "v": "04bd4445"
+ },
+ "champ-de-ble-aux-corbeaux": {
+  "w": 1920,
+  "h": 920,
+  "color": "#c8b808",
+  "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwAgCdASoQAAgAA4BaJbACdGuAAknc+lbrWAD+ScGuA6mwfT04Qt+1oDBgx4D4vnM6cTBPq2yJnL4pQWQ+jkOT2Wxckz4wMEHfvBuoqdsAAA==",
+  "src": {
+   "w": 1920,
+   "h": 920
+  },
+  "v": "5aa11519"
+ },
+ "chaos-primordial": {
+  "w": 1734,
+  "h": 2400,
+  "color": "#384888",
+  "blur": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoMABAAA4BaJbACdAD0sQUpIQAA/qUgqjUleQkAdgPn1gb9Y9xbS2SEqWiKmqD1r81txAIvFzYKUcYAAAA=",
+  "src": {
+   "w": 1920,
+   "h": 2658
+  },
+  "v": "8d14ed26"
+ },
+ "charing-cross-bridge": {
+  "w": 1024,
+  "h": 828,
+  "color": "#d8d8b8",
+  "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAQCdASoQAA0AA4BaJbACdH8ADSq3HIAAzd3IZ2eFdmBvIIuKMw4rq67Dp8JCwofhKALdL4/sVh/NPzepSiPhiZhchuVK5obZafGBiJ3dsVyXh/qUdv1pKho+bbMWWm+jGdTnXuiTluAA",
+  "src": {
+   "w": 1024,
+   "h": 828
+  },
+  "v": "1f5cfc8a"
+ },
+ "chop-suey": {
+  "w": 1920,
+  "h": 1610,
+  "color": "#182838",
+  "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoQAA0AA4BaJbACdAC1rP73SMgA/s4Bg3wqozE9u2arRflWq+Pof/FhFtm7vW7ICYivGuthRchrAOZRz7KkadNZTDDhUDl96WpCSv2lFqlUpVa8/MQn3XvBW7OfT1m27gAAAA==",
+  "src": {
+   "w": 1920,
+   "h": 1610
+  },
+  "v": "adab54b1"
+ },
+ "composition-rouge-bleu-jaune": {
+  "w": 1920,
+  "h": 1947,
+  "color": "#d82818",
+  "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoQABAAA4BaJbACdEf/gbTsbqcAAP7uLsFNXoUnt7SwBWTmqSsuCvVx5lZxZHYhvKH84kadly6NJe37fgmZS6oDnbOh61ZD39Od/HEHZwNJfeHQYcG//fsnJGPdwaFaY82TXAAA",
+  "src": {
+   "w": 1920,
+   "h": 1947
+  },
+  "v": "e30c32f0"
+ },
+ "composition-vii": {
+  "w": 1920,
+  "h": 1276,
+  "color": "#282828",
+  "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoQAAsAA4BaJbACdADOcpbwjLAAzefjgAnRo6fW+sANxm9M+0Kj1OyBhJ+7udP3INGIE4of//ydqtnKyPhUygdnlLW98DBMXKA3AsnDxmCLXQIAAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1276
+  },
+  "v": "771e7f9a"
+ },
+ "composition-viii": {
+  "w": 1920,
+  "h": 1399,
+  "color": "#d8c8b8",
+  "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoQAAwAA4BaJQBOgB6UZKBPBQsAAP40LFYMQonWXwyEwSOYVEWaox4usjiaO1HrVKZM9xtirVn1wg7rXFfscCv9twfGNPXeiK84SD4ytdgFgAAA",
+  "src": {
+   "w": 1920,
+   "h": 1399
+  },
+  "v": "fade7131"
+ },
+ "convergence": {
+  "w": 300,
+  "h": 181,
+  "color": "#282828",
+  "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoQAAoAA4BaJQBOgCL/uekLb0cAAP1SADwSf7Cjb1n04enbsseeveIy6Q39DgGIe2SbmbSpUD0EQJtsmW75lyY410xF3l1QAAA=",
+  "src": {
+   "w": 300,
+   "h": 181
+  },
+  "v": "a009fae3"
+ },
+ "cygnes-refletant-des-elephants": {
+  "w": 395,
+  "h": 252,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoQAAoAA4BaJZgCdH8AFcB/qDEAAPzxtlRwUYjnDqNRS3hJ9zUyI6LlaI5K+kP6fhQM7Y/GNzePShiyB7c/ddbOEBMj0j9qzj5BdSGTMnGDtGUJhA9CBOa5gzMGHl1axwAAAA==",
+  "src": {
+   "w": 395,
+   "h": 252
+  },
+  "v": "de724afb"
+ },
+ "d-ou-venons-nous": {
+  "w": 1920,
+  "h": 706,
+  "color": "#383838",
+  "blur": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoQAAYAA4BaJYwCdH8AC1N0UAD+3SHhmzncSku50fTVhll//ytB4fPOXlXU0GptKeQ1eCOk4LBLgAqQAAA=",
+  "src": {
+   "w": 1920,
+   "h": 706
+  },
+  "v": "7ef1df8f"
+ },
+ "danae": {
+  "w": 1920,
+  "h": 1859,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoQAA8AA4BaJZgCdADw1hy2FNN8kAD+3jV45v1L0pNTJ6rCzuK9wmHFuTwmQ87V0D0t7FVs0f7liSQ/qdD7oA4pmh6AzqDhVtL6pdAA",
+  "src": {
+   "w": 1920,
+   "h": 1859
+  },
+  "v": "7a9b7ec1"
+ },
+ "danseuses-bleues": {
+  "w": 1920,
+  "h": 1887,
+  "color": "#584838",
+  "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoQABAAA4BaJbACdAYwxFXREnCtDYAA/R/0x9SCD6vhzNeSMbLJkHzyPFpVTshLVpyIsfxZX/L56DNcu/Y7xPNZcvpmIJJ4TDSMwI8ODk89t35E1W7Tb/Edo3QOYAAA",
+  "src": {
+   "w": 1920,
+   "h": 1887
+  },
+  "v": "1a8a0368"
+ },
+ "dante-et-virgile": {
+  "w": 1914,
+  "h": 2400,
+  "color": "#382818",
+  "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoNABAAA4BaJaACdAEIZw1KXgAA/tvenGFtLZje/yJ3YAJ8bRm55cad5Psz5hCMt4wuy+LuDJzgKCwkscP0kCt/KRjFexAIom9Pr1F5Z4NLX6/Tujy82gAA",
+  "src": {
+   "w": 1920,
+   "h": 2408
+  },
+  "v": "ca7c75c2"
+ },
+ "david": {
+  "w": 1600,
+  "h": 2400,
+  "color": "#988888",
+  "blur": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoLABAAA4BaJZQCdAEQ+kgEuAAA/r5zEIa+vnmbyCv68Qqa7oC5NLoQBCmAG/gLwGEF4pgecAA=",
+  "src": {
+   "w": 1920,
+   "h": 2880
+  },
+  "v": "63548a8f"
+ },
+ "deux-soeurs-sur-la-terrasse": {
+  "w": 1920,
+  "h": 2359,
+  "color": "#f8f8f8",
+  "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACwAQCdASoNABAAA4BaJYwCdADxp/AAAP5oUTlqUJA9k5q1x51ChT7lND9d0eXuW+6aS5O7adblUwDroDhIWgh5mJAJlZQ167T+2YeWxldTwahbw2r4gpb/Crs/XAAA",
+  "src": {
+   "w": 1920,
+   "h": 2359
+  },
+  "v": "65f55df6"
+ },
+ "divan-japonais": {
+  "w": 1813,
+  "h": 2400,
+  "color": "#181808",
+  "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoMABAAA4BaJZACdAYsZYdS0YjgAP6D8u1p57Jm2rgVo1sXjD3Exi8FyNvUtj1dbD/DvZK8xQ+nWby4wz2r9mc+3WF1IgvxBfCm4N6yy5S9RZzBWVdC3SRewUS0Ey096bDCJvBaAAA=",
+  "src": {
+   "w": 1920,
+   "h": 2542
+  },
+  "v": "8ac4187e"
+ },
+ "echo": {
+  "w": 1364,
+  "h": 2000,
+  "color": "#281818",
+  "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoLABAAA4BaJQBOgCPX9uuw/5NeAAD+7Jp+VjPef02OEFFuinqpCautUC/zgOPwL3am8bUY1L2FlGSVtb9LMH+zVpsyIXSY0LXMAAAA",
+  "src": {
+   "w": 1364,
+   "h": 2000
+  },
+  "v": "c4dadc17"
+ },
+ "echo-et-narcisse": {
+  "w": 1920,
+  "h": 1095,
+  "color": "#483818",
+  "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQAAkAA4BaJagCdADw7jNNLwAA/q1CWEykIfw11EVGEAjwqCeBSWb258w2Ri9CG+20AmtjXBVyC6iRaxb+h4HW1GJ1xc2RhfxupTgAAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1095
+  },
+  "v": "17ad6aae"
+ },
+ "eugene-manet-et-sa-fille": {
+  "w": 1500,
+  "h": 1190,
+  "color": "#a89878",
+  "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACwAQCdASoQAA0AA4BaJQBOgCLelRQAAP7bzVJ5mvhfBMY/79TXHfcBAP0ko4Arn8+NsBSX5Po0DmKWxP+dogfXvuiiBUHxvTr2yNsH5YAAAA==",
+  "src": {
+   "w": 1500,
+   "h": 1190
+  },
+  "v": "cc01e1e4"
+ },
+ "femme-a-sa-toilette": {
+  "w": 1920,
+  "h": 1437,
+  "color": "#888888",
+  "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoQAAwAA4BaJZQCdACHBz9lgAD+hixN5Su9M3Gh5VyLVuZq/rARkYnua64S4eGieNB1kaCwPl83futVCqAAAA==",
+  "src": {
+   "w": 1920,
+   "h": 1437
+  },
+  "v": "ca29a0ee"
+ },
+ "femme-balayant": {
+  "w": 768,
+  "h": 714,
+  "color": "#482818",
+  "blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAwAgCdASoQAA8AA4BaJbACdAEQSW735SWvoAD+hHN0er/amEnCsP0C5G+QkwGSQT84UKrjsYoxqwUnuHD2HcSgXl9LSYOngAA=",
+  "src": {
+   "w": 768,
+   "h": 714
+  },
+  "v": "a74ef7fd"
+ },
+ "femme-en-chemise": {
+  "w": 1920,
+  "h": 2376,
+  "color": "#f8e8d8",
+  "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoNABAAA4BaJbACdAD7BcpdQd/TZgAA/ugdKu8rzbdpn9OVAiNFwoy3anLuxjc9/5uOvk/4t8yYkM4v6Ik2nXKl1hALmHi2Q3PW98l6vLTWkbELlmD4c7TNV34qqpLNY6XuKTEXCPootAZiL/AAAA==",
+  "src": {
+   "w": 1920,
+   "h": 2376
+  },
+  "v": "387a8c63"
+ },
+ "femmes-d-alger": {
+  "w": 1920,
+  "h": 1492,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoQAAwAA4BaJZQAD5FOnKF6RchAAP7B7H7N+vgK6E3CCr5IZMkcDuIbwfjU1wTk6nd4Hzr9dFIfYPk8ui8F8D9p+3QJSMuUyGS1dv+m/OmAAA==",
+  "src": {
+   "w": 1920,
+   "h": 1492
+  },
+  "v": "dd02164a"
+ },
+ "femmes-de-tahiti": {
+  "w": 1920,
+  "h": 1432,
+  "color": "#181828",
+  "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoQAAwAA4BaJbACdAYwTvRivOOQpgAA/uRoMcXv2brelEKLyn+8hW8OXC6c4MEsQ1C1H5z8dQumo11Ry6SFN0wXN8ciIp3G+dqKFBxWJH+i5dRXGxUaGbA55PZ3YAAA",
+  "src": {
+   "w": 1920,
+   "h": 1432
+  },
+  "v": "1365f9f9"
+ },
+ "france-champagne": {
+  "w": 1750,
+  "h": 2400,
+  "color": "#c8a868",
+  "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoMABAAA4BaJZgCdAD0u7WkMBgWAAD684Mpl8Ea2ZVQOYrgnbEMHRHdEWt9GUBlJl7B7fmH1RCT519mSa71hWFgBG5+ELg+vuaInenZQKIPAAAA",
+  "src": {
+   "w": 1920,
+   "h": 2633
+  },
+  "v": "11d4208e"
+ },
+ "frida-et-diego-rivera": {
+  "w": 280,
+  "h": 356,
+  "color": "#787858",
+  "blur": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoNABAAA4BaJZgCdADJ1KTU8AAA+wV5wnaPLqmrhcvmfMTU7rGg0SY+E7TyOK1EiYZYuy3vhMQKc3fBpuJ1CcgA",
+  "src": {
+   "w": 280,
+   "h": 356
+  },
+  "v": "71e4c108"
+ },
+ "galatee": {
+  "w": 1859,
+  "h": 2400,
+  "color": "#181808",
+  "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoMABAAA4BaJZACdAELYQDa6LAAAP712jbCPzO5yyQG+cWqocb0oSfAJcwpm6enXXA3Nd6P7N2QhI9bh+JeMzeYJiSYrQAXyqAAAA==",
+  "src": {
+   "w": 1920,
+   "h": 2479
+  },
+  "v": "74f44f9c"
+ },
+ "gismonda": {
+  "w": 848,
+  "h": 2400,
+  "color": "#e8d8b8",
+  "blur": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoGABAAA4BaJQBOgB6RY1RvL7gA+EPYOgDzGSXw7iGcZpC1Hp6kM5I/d0CT4pWSIwz9XgAA",
+  "src": {
+   "w": 1447,
+   "h": 4094
+  },
+  "v": "1faf2739"
+ },
+ "golconde": {
+  "w": 358,
+  "h": 287,
+  "color": "#a8a898",
+  "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoQAA0AA4BaJYwCdAYwTVnbq6RhAAD+VMvly3N1T4Rju7V+YFHLfTZ3XS8ej9VPd04593g631h22Eme5ZAmFuxY0TjeCFPs05k3tjzJywGmepEUyMmnBRAA",
+  "src": {
+   "w": 358,
+   "h": 287
+  },
+  "v": "175b79fd"
+ },
+ "guernica": {
+  "w": 464,
+  "h": 211,
+  "color": "#e8e8e8",
+  "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoQAAcAA4BaJaQAD5GxAbrnL5fQAPY5mDynd3fO5boPgIzZsKMvQhRZ7FWUUPq0e8hsI2PSdP9VsnwVjETBVYqUIPqz6c0p8iegAAAA",
+  "src": {
+   "w": 464,
+   "h": 211
+  },
+  "v": "a154bf63"
+ },
+ "house-by-the-railroad": {
+  "w": 1920,
+  "h": 1590,
+  "color": "#a8b8b8",
+  "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoQAA0AA4BaJYgCdADPt5tDAAD+sVaoOraaL1CVygTvRu1gJLvge1wJnFZZS8YVSSFeD8WWsE57ewqATXk/tua+c0sAAA==",
+  "src": {
+   "w": 1920,
+   "h": 1590
+  },
+  "v": "1f5ed728"
+ },
+ "hylas-et-les-nymphes": {
+  "w": 1920,
+  "h": 1191,
+  "color": "#180818",
+  "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQAAoAA4BaJQBOgCHwr1dhXiBAAP7zEM6nFtambYGEL5PJipPgkjOEopDO7+fTvcSLHismqKJmzQWFcJz1DlaKTZ/7qa1LiXXjP6hKflbdcbZOwwAAAA==",
+  "src": {
+   "w": 1920,
+   "h": 1191
+  },
+  "v": "6ded5bef"
+ },
+ "impression-soleil-levant": {
+  "w": 1920,
+  "h": 1489,
+  "color": "#787868",
+  "blur": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACQAQCdASoQAAwAA4BaJYwCdABVYwAA+Dd7o8negjj4fpt1oKmhJ+mjYAAAAA==",
+  "src": {
+   "w": 1920,
+   "h": 1489
+  },
+  "v": "77bff839"
+ },
+ "j-ai-baise-ta-bouche-iokanaan": {
+  "w": 1910,
+  "h": 2400,
+  "color": "#e8d8c8",
+  "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAQCdASoNABAAA4BaJQBOgCFUU/9JAAD+7etvkWugDKMlhleS0lIZjYp/Qi14dmrxBCjKGI+R4KtsjRr3Ban9JThyVvwA3rgF0Jf5v4VIe+4oPi0HLYAA",
+  "src": {
+   "w": 1920,
+   "h": 2413
+  },
+  "v": "10d972cb"
+ },
+ "jane-avril": {
+  "w": 1741,
+  "h": 2400,
+  "color": "#c8b898",
+  "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoMABAAA4BaJbACdAYvhvNPtvj4iJAA/tYl4q4P8pJ9A28EWLqNRsjmg/2KHw0YDgb8CTi0ZtLsIMpvnGmJZOxAF9qfTosIxB4hfp0+ZtiiUA7qebqQfAHwY5ou661Rt4FAicz+PZv9AAAA",
+  "src": {
+   "w": 1920,
+   "h": 2646
+  },
+  "v": "ffdd2b56"
+ },
+ "jardins-publics": {
+  "w": 1086,
+  "h": 2400,
+  "color": "#585848",
+  "blur": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAQCdASoHABAAA4BaJYwCdAEOzYjXRlAA/oNJmjtvrLhFgGRlCoDRcUqkSSwAAAA=",
+  "src": {
+   "w": 1250,
+   "h": 2762
+  },
+  "v": "c18795c1"
+ },
+ "jaune-rouge-bleu": {
+  "w": 1920,
+  "h": 1236,
+  "color": "#c8c8c8",
+  "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQAAoAA4BaJbACdAYtLgZsSzQNAAD9+4MvbSZnQF6Xyp/Nn+JXkF3zoWz0Nedd0s6oyeZHDuAhYftyc7OEgufBO8IQCMn1gAeuj6gYpCr/jOPeurycwDjJBDJoUZAAAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1236
+  },
+  "v": "fe2e9ce9"
+ },
+ "jeanne-hebuterne-assise": {
+  "w": 1648,
+  "h": 2400,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoLABAAA4BaJbACdAYuG7+ONZbrAAD3NeC0NiCuUiE3qBm1btqlMpplqLfVhJ5bVINTyIWBfrwRtnEr01H5/yBtFdALd3J7E9qJqURPZTq7j9s7iISoq2gEbS4zRoAA",
+  "src": {
+   "w": 1920,
+   "h": 2796
+  },
+  "v": "a8e11ba1"
+ },
+ "job": {
+  "w": 1834,
+  "h": 2400,
+  "color": "#d8a868",
+  "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoMABAAA4BaJbACdAYuvqc36z9YpMAA+VEZDimW2R3G/xCDARj7j/oRRhq76n+f211Vx6w5BjahpDX+kcRNsSnjDis5AedWiG+ckwlC0OJXtUpw161s7VswZgAAAA==",
+  "src": {
+   "w": 1920,
+   "h": 2513
+  },
+  "v": "a1edc36a"
+ },
+ "jour-d-ete": {
+  "w": 1920,
+  "h": 1174,
+  "color": "#a8a8a8",
+  "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoQAAoAA4BaJQBdgBjaqFMAAOGc6HgSbZG31ow6p73fFJay1xaTWTOO9pEMXCwQK7wXOWPv2Bs7RfUeNlAgKKUbPwAAAA==",
+  "src": {
+   "w": 1920,
+   "h": 1174
+  },
+  "v": "be133d51"
+ },
+ "judith-decapitant-holopherne": {
+  "w": 1920,
+  "h": 1432,
+  "color": "#180808",
+  "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoQAAwAA4BaJQBOgMV9yjHGsYbEAAD+9t3YLotf7GV1TmxcKYh32yq5b4FEB6cmaguredeiKW/owcQcp4D7DZnpJjA4RBoB4TTBCNpD+OifYBYAAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1432
+  },
+  "v": "9e035a2e"
+ },
+ "judith-et-holopherne": {
+  "w": 1179,
+  "h": 2400,
+  "color": "#281818",
+  "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoIABAAA4BaJagCdADcSrYVcAD+rMKgqV79TTWgoRlWPUPgt0Gsd7BdqsP1rOO0T7XOd43H5kklpOrsTboeH/SQe3p5q/QZapFAAA==",
+  "src": {
+   "w": 1666,
+   "h": 3392
+  },
+  "v": "0cf8be29"
+ },
+ "jupiter-et-semele": {
+  "w": 1328,
+  "h": 2400,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoJABAAA4BaJYgCdAELZV20q2bwAP7mAXLkjO+ske3vqekn8AT/pYQJOlGvWToDjGAuDL1NdxhJnFj6UpKyrQAA",
+  "src": {
+   "w": 1920,
+   "h": 3471
+  },
+  "v": "12c6a6ff"
+ },
+ "l-absinthe": {
+  "w": 1749,
+  "h": 2400,
+  "color": "#281818",
+  "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoMABAAA4BaJQBOgB8xpXZgr5lQAP1wEPua/uoDn0hL6derUchaC+b84+EYZ6btvXxZ5zzqHeL6T1deOU1/iaH0ik1jDQcZLIe+8ThgUwMQr1Wq2MfphCPwPyAAAA==",
+  "src": {
+   "w": 1920,
+   "h": 2634
+  },
+  "v": "e3d4cb48"
+ },
+ "l-amandier-en-fleurs-bonnard": {
+  "w": 868,
+  "h": 1280,
+  "color": "#f8f8f8",
+  "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoLABAAA4BaJagCdADdJGaDcThQAPz7OQWeyY9QKvvWuTxNHT0YhM7AdEKaFxFVuRhPOSUrLDgwUmI0jPkwQ4nFBRUjoZ/EJtKzhEWkJIAAAA==",
+  "src": {
+   "w": 868,
+   "h": 1280
+  },
+  "v": "8e151a35"
+ },
+ "l-ange-dechu": {
+  "w": 1920,
+  "h": 1312,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoQAAsAA4BaJQBOj+AQVBG+ULTiDIwA/soK0gd4vBocVhotuss9xVk9NvZhIfNc/kRql4i9YS1C94Eg/5DyG+aGJ86v/5R6BGZd8GRd+LNWIX21/5OvC8rrvYUEAAAA",
+  "src": {
+   "w": 1920,
+   "h": 1312
+  },
+  "v": "212c17ad"
+ },
+ "l-apparition": {
+  "w": 1617,
+  "h": 2400,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoLABAAA4BaJZgCdADdZfIDO6ZAANzDPYqNJ6zMlAfyyWM8JvfVQ5lbJT2utREb5SLYdv0DmNupa6Mgihk0gTnjhj82B0muelQCIY+fSAhIqkkBeGdw0Xx4f354AAAA",
+  "src": {
+   "w": 1684,
+   "h": 2500
+  },
+  "v": "8aea6a19"
+ },
+ "l-arbre-de-vie": {
+  "w": 1266,
+  "h": 2400,
+  "color": "#d8b898",
+  "blur": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoIABAAA4BaJZACdAELKWoudBAA/H1+hq1SiawZ3pqfp6iM8K86H34cQONN1VT1+NfjdFcAAAA=",
+  "src": {
+   "w": 1920,
+   "h": 3641
+  },
+  "v": "70e47e80"
+ },
+ "l-arbre-gris": {
+  "w": 1920,
+  "h": 1418,
+  "color": "#9898a8",
+  "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAwAgCdASoQAAwAA4BaJYwC7AEXee4dXUCGAAD+k8JAv8yND5Pk82pVhr2M7xRA+himRvfZvJAvitCyd397UTzQri11WyikhUo4kgAA",
+  "src": {
+   "w": 1920,
+   "h": 1418
+  },
+  "v": "643f4e1e"
+ },
+ "l-arbre-rouge": {
+  "w": 1920,
+  "h": 1355,
+  "color": "#5868a8",
+  "blur": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAAsAA4BaJbACdAEfko8g6WQAAP6hIkA0d0e3+KECwQQL4rqpzl1qBjLCra3Te7O0Rcg6suWJAm9RAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1355
+  },
+  "v": "6f3d72c7"
+ },
+ "l-art-de-la-peinture": {
+  "w": 1920,
+  "h": 2281,
+  "color": "#382818",
+  "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoNABAAA4BaJQBOgB6Nk9bfFAAA/vF/vjbBeeaPKJSiYNVrVI77ii6nmGCGXRO7IM6gwIAEHg2vKaKiqSWMdRQRiJmOvyEjdT/r96zYgAA=",
+  "src": {
+   "w": 1920,
+   "h": 2281
+  },
+  "v": "df566855"
+ },
+ "l-empire-des-lumieres": {
+  "w": 279,
+  "h": 357,
+  "color": "#282828",
+  "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoMABAAA4BaJQBOgB6J9RigigAA/so5CuyY0u2m5xZ4UFwsVeP6DcMouKkcdV3DB5s0Ps+ey6utzzRMRj3GePFUa0AOghpedOMWKF7qtLVGLoWtpNQAAA==",
+  "src": {
+   "w": 279,
+   "h": 357
+  },
+  "v": "3fc2c5fb"
+ },
+ "l-epopee-slave": {
+  "w": 1920,
+  "h": 1455,
+  "color": "#685848",
+  "blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAQCdASoQAAwAA4BaJQBOgBtRvFAAAP7mAOOjib0nbQxwxcDm9CBp71f+qmZ3Fa1wAu4Qo7Nk1XXOOwjHVPuCug7KGZbAAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1455
+  },
+  "v": "7bee7568"
+ },
+ "l-escargot": {
+  "w": 300,
+  "h": 298,
+  "color": "#f8f8f8",
+  "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAABwAgCdASoQABAAA4BaJbACdDBKSIrLc2Pmo24AAP5fN+/gZ3tz/o1z+QZoxuuxVpqn+WhEzaDiPbNLqLc8exOcyLghraMaEfM6T1l5Vl04LZFF0l0fUiLB5kPdsLiwc3T/Y3cpe+YlFbnH7BpGQBvI6z3wxU+8M0+lXaS11/ldxhYbAcu6vrvN/hWtgrjsC/E6XcVMv4PxEb579mf0O9+f+YD+esAA",
+  "src": {
+   "w": 300,
+   "h": 298
+  },
+  "v": "c113ec99"
+ },
+ "l-homme-de-vitruve": {
+  "w": 1766,
+  "h": 2400,
+  "color": "#d8b878",
+  "blur": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoMABAAA4BaJagCdADzeSp4AP7od9lv0hoattcsI+vjbRZr7KmPxVAt1x7ZpP195Q7EyG6OfzSAAA==",
+  "src": {
+   "w": 1920,
+   "h": 2610
+  },
+  "v": "42c8c370"
+ },
+ "l-oeil-comme-un-ballon-bizarre": {
+  "w": 1818,
+  "h": 2400,
+  "color": "#e8d8c8",
+  "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoMABAAA4BaJYwCdAEfUm7UZXQhoAD+7eGMXwiHwleqU2KRMBzlN7qLKE0n8OtcuYaq/fOo0SnJOA+DUDU/0Lz/zJWSksvZle3cnBuWwAA=",
+  "src": {
+   "w": 1920,
+   "h": 2535
+  },
+  "v": "7ea03e26"
+ },
+ "la-balancoire": {
+  "w": 1836,
+  "h": 2400,
+  "color": "#585868",
+  "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoMABAAA4BaJYwAAvwifYDbwnAA/juXqUJcIwm/1Xk0nu8Wiyfh0Sg99wJakyykxeVanTLlPkMcx0n7pr97XDKV3rC63/eNaQTkaag/k4Fd8kAA",
+  "src": {
+   "w": 1920,
+   "h": 2510
+  },
+  "v": "9e40f6c8"
+ },
+ "la-barque-de-dante": {
+  "w": 1920,
+  "h": 1478,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAwAA4BaJZwAAudGuawnrAAA/vEL2hkSC/k4q/kBza7X8BmaRl0Xd7gwuB2qAi3lxjchG5xpjeC7P4EzPgAA",
+  "src": {
+   "w": 1920,
+   "h": 1478
+  },
+  "v": "eed02f2d"
+ },
+ "la-cape-noire": {
+  "w": 1900,
+  "h": 2400,
+  "color": "#e8d8c8",
+  "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoNABAAA4BaJQBOg7QAOA2lGZvGAAD+8d7T4QlXVhxr87RcsnWWIeIO7IQzC6Ogpa0hjSeQVqemtn0w6eyBDjSEnpQIWQZevuT9H0RgAAA=",
+  "src": {
+   "w": 1920,
+   "h": 2425
+  },
+  "v": "84faab8f"
+ },
+ "la-cathedrale-de-rouen": {
+  "w": 1624,
+  "h": 2400,
+  "color": "#989878",
+  "blur": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAABwAQCdASoLABAAA4BaJQAAKJNBoAD3CDXka9ABr1ImpNwUUJK5S/D+g+jEYAAA",
+  "src": {
+   "w": 1702,
+   "h": 2516
+  },
+  "v": "caedf98c"
+ },
+ "la-cene": {
+  "w": 1920,
+  "h": 960,
+  "color": "#483828",
+  "blur": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAgAA4BaJYwCdAELzUMdjgAA/u0FdMzoGuInE51hDrRex06Aaddj0Lj1LxVmH04OaiLwzZGfAAAA",
+  "src": {
+   "w": 1920,
+   "h": 960
+  },
+  "v": "dcd54742"
+ },
+ "la-chambre-a-arles": {
+  "w": 1920,
+  "h": 1523,
+  "color": "#987848",
+  "blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoQAA0AA4BaJbACdAEDH0f2ASAA+C/6jKGugpfoNEh/Mabq97gg4Ybh9j9JA4nOuoOtbbYV4zj2RbM/pkeeZUaAAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1523
+  },
+  "v": "b6e148cb"
+ },
+ "la-classe-de-danse": {
+  "w": 1920,
+  "h": 2204,
+  "color": "#786858",
+  "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoOABAAA4BaJQBOgB9cXXCD3AAA9W9vKyrp5G4vBmus+r4qY7stu+ok6Cc1ExP4uf04w5XUNfUx79Z5D/zqIZbGFWXuU8Jk4xxiUxEWC9NlsAAA",
+  "src": {
+   "w": 1920,
+   "h": 2204
+  },
+  "v": "b1f21cfb"
+ },
+ "la-colonne-brisee": {
+  "w": 270,
+  "h": 358,
+  "color": "#5868a8",
+  "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoMABAAA4BaJbACdBagCNmj9CAA9cfNiS5crk4CTsRMoEPENzxP9L+SQay4wbQmd2APFdIQupqU6uCEE1vr6fb/8bTswpbI0AIM9oYS1JdAoBJcKQVeKe9dVV14cAAA",
+  "src": {
+   "w": 270,
+   "h": 358
+  },
+  "v": "3a4e1c47"
+ },
+ "la-creation-d-adam": {
+  "w": 1920,
+  "h": 871,
+  "color": "#d8c8b8",
+  "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoQAAcAA4BaJYgCdAYtzdyZrp2diAD+t2HUXTVfsPUVDzbhKNCDcC0xutffi9XBNe/Nnk+yJus/ce3Sx+0bwtC04kRuRMjCaTbD4RPSAAA=",
+  "src": {
+   "w": 1920,
+   "h": 871
+  },
+  "v": "f3a65964"
+ },
+ "la-crucifixion-blanche": {
+  "w": 1920,
+  "h": 1920,
+  "color": "#484838",
+  "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABQAgCdASoQABAAA4BaJYwCdAEPdl4LyFMpqgAA/tH2o/hCLQ+NgsUZygCZiD+asq/XNvhWOkB+8AYD6+OqXmg1QSKB8WUN5rJdohGtoCEzbmvvGHHpAItN0kwBAAAA",
+  "src": {
+   "w": 1920,
+   "h": 1920
+  },
+  "v": "979f8c85"
+ },
+ "la-dame-a-l-hermine": {
+  "w": 1785,
+  "h": 2400,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAwAgCdASoMABAAA4BaJYgCdADdJAe50GD9AAD++FZhoCwi2oW3OGk/5dTMNlSnHiQIMQCrLAGMJN7pszuMXtBoElfnN+zpTYAAAA==",
+  "src": {
+   "w": 1920,
+   "h": 2582
+  },
+  "v": "bfefa3c2"
+ },
+ "la-dame-de-shalott": {
+  "w": 1920,
+  "h": 1474,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoQAAwAA4BaJYgCdAELAeDzH/ZByAD+7x6jtRA2X6oHKu4BhjFUxHMeYDetOS/fxJ2/7thwIDPCx4vJCn86L6S8Hd5awtPfA2ZLYAAA",
+  "src": {
+   "w": 1920,
+   "h": 1474
+  },
+  "v": "bb1ec3a6"
+ },
+ "la-danse": {
+  "w": 874,
+  "h": 575,
+  "color": "#283848",
+  "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoQAAoAA4BaJaAAAuQDNNG5yAAA/s2UWIUq4zhvoQxn9UDMDXhFD5XBF7a0CnHv1vWP3ejXAagpWj1WJmZIg/f5AAAAAA==",
+  "src": {
+   "w": 874,
+   "h": 575
+  },
+  "v": "25469675"
+ },
+ "la-famille": {
+  "w": 1920,
+  "h": 1813,
+  "color": "#282828",
+  "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAQCdASoQAA8AA4BaJaACdADxHl10AAD+8TtsxMb39K6DxShr9PQ/KDbPZBgDWbjgDbOEi5v6hZHF9BpYAXMPX6vAl36Z2K/GHPDlpoDW7ogNYdsJTwjaoLSxAAAA",
+  "src": {
+   "w": 1920,
+   "h": 1813
+  },
+  "v": "1cf26fbe"
+ },
+ "la-femme-a-l-ombrelle": {
+  "w": 1920,
+  "h": 2385,
+  "color": "#8898a8",
+  "blur": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoNABAAA4BaJQBOgBumWk+iy4AA4fBSmOwfhRqOJ3zvioGxoZp0FhTXpf/VXlcg7w4CSuMc6X4wQAAA",
+  "src": {
+   "w": 1920,
+   "h": 2385
+  },
+  "v": "ef11e38c"
+ },
+ "la-femme-au-chapeau": {
+  "w": 1763,
+  "h": 2400,
+  "color": "#c8b8a8",
+  "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoMABAAA4BaJYgCdH8AE7gYqApmgADOCIpPPWKt9uaeyVLnCei9pDGZVE5F7FMumVfDJok0TvnZK4nb10kyx4WZ3naZ1+a/gshVCwOgAFryow2P3KWIUUJ4d3p7wAAA",
+  "src": {
+   "w": 1860,
+   "h": 2532
+  },
+  "v": "f75e8c18"
+ },
+ "la-femme-qui-pleure": {
+  "w": 286,
+  "h": 348,
+  "color": "#182828",
+  "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoNABAAA4BaJbACdDiABypVLDRNZQAA/kSiRbupq8nTXp2FjWoDUBUqs1/UW03+LSTYH9aXav4KxmebtUo5JTbaD4UyQrP+hQcAHkYj5HjUH1iYU29+0FBLFQDLag9Bi0wWH66v3O6nKsAA",
+  "src": {
+   "w": 286,
+   "h": 348
+  },
+  "v": "5dec90d5"
+ },
+ "la-fiancee-juive": {
+  "w": 1920,
+  "h": 1400,
+  "color": "#382818",
+  "blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoQAAwAA4BaJagCdAED/6cl6oAA/vRv6YDRgTZUqJy2nfG/aIVSprCtBd2bmyzfcQ1zZimoRDYLoVH0hAmE8aAAAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1400
+  },
+  "v": "0e82ad33"
+ },
+ "la-gare-saint-lazare": {
+  "w": 1920,
+  "h": 1404,
+  "color": "#686868",
+  "blur": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAwAA4BaJYwCdACZarVeAADOH2ENMRcLdqjsNa9A2OFQoO+olo4kynJ3XrVgC3H34YpgAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1404
+  },
+  "v": "5d89ffba"
+ },
+ "la-jeune-fille-a-la-perle": {
+  "w": 1920,
+  "h": 2274,
+  "color": "#282818",
+  "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAABQAgCdASoOABAAA4BaJYgCdAECpjRtKnf/VQAA/vQyqoXoREKImVtlMZZ8lozWqTslwkdvbtSCEHJa74Q507vr5mcFju1EGTJr11H9eF1kBlOWQ5xhkCwlQAA=",
+  "src": {
+   "w": 1920,
+   "h": 2274
+  },
+  "v": "3224e37a"
+ },
+ "la-joconde": {
+  "w": 1586,
+  "h": 2400,
+  "color": "#180808",
+  "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoLABAAA4BaJbACdAD7FPzByMZ9oADJdjRjXXUa+T20WP+nr/ioC7b2TCAI3kH55cFrB3N01MKNKek8nZmgbc9KyVYTybowQZ/s5p+DuxdYGINqR/3cvFNujAp4AAAA",
+  "src": {
+   "w": 1920,
+   "h": 2905
+  },
+  "v": "54076880"
+ },
+ "la-jupe-aux-paons": {
+  "w": 1895,
+  "h": 2400,
+  "color": "#e8d8c8",
+  "blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoNABAAA4BaJQBOgBuk6057MIAA/vH6g102iUT6N7WGHa92lGJM/MudvAuh2e3IOcNjPTQIx662Ls8L2CYjDQEXxAA=",
+  "src": {
+   "w": 1920,
+   "h": 2432
+  },
+  "v": "1eca3854"
+ },
+ "la-laitiere": {
+  "w": 1920,
+  "h": 2158,
+  "color": "#383828",
+  "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoOABAAA4BaJQBOgB4mBxH/wkAA/uoHIMVuxq48EgqwjyHk2x8aAxATP8NQiASpM+Bkaru03aAyk43zAfyH9tREeYhMEAAA",
+  "src": {
+   "w": 1920,
+   "h": 2158
+  },
+  "v": "68b9442f"
+ },
+ "la-lecon-d-anatomie": {
+  "w": 1920,
+  "h": 1446,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoQAAwAA4BaJYwCdAEO7oM3edhAAP7zH9EgacaaD049eCW5K0PG98jT4q3kY509x9hphFtJKYw8VAQ7KbHtRwgTzro2a8gY0AA=",
+  "src": {
+   "w": 1920,
+   "h": 1446
+  },
+  "v": "a03efeda"
+ },
+ "la-liberte-guidant-le-peuple": {
+  "w": 1920,
+  "h": 1536,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAQCdASoQAA0AA4BaJZQCdADLpl+9AAD+waR1uIvARtZrHCCtT9cVjlE9uzYWyPfM1GKuTprF7rKMxFQwK6AVDYWlf0VDxvNHdUKGr8xGnYB4q02kLYuqqQgI9JA60Btvr2AA",
+  "src": {
+   "w": 1920,
+   "h": 1536
+  },
+  "v": "5a2603ee"
+ },
+ "la-liseuse-a-la-fenetre": {
+  "w": 1860,
+  "h": 2400,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoMABAAA4BaJQBOgBwyFW68qygAAP7sCOe2sS7rnhs+UmegjzboNWBRalm9YKHrazEjAWdfz6NU0bDKNdpuKnwFWb4d9khdInvuAAAA",
+  "src": {
+   "w": 1920,
+   "h": 2478
+  },
+  "v": "34b025d6"
+ },
+ "la-maja-nue": {
+  "w": 1920,
+  "h": 974,
+  "color": "#281818",
+  "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoQAAgAA4BaJZwAD4wQFIX9LQAA/vaSBEMlM8YpzDnCvOlXZS9Guu58dvbJuIyn09t6FaAdKCF1e+Tv2f1H6JaioP3jQQgoAAA=",
+  "src": {
+   "w": 1920,
+   "h": 974
+  },
+  "v": "9eb825ac"
+ },
+ "la-montagne-sainte-victoire": {
+  "w": 1920,
+  "h": 1268,
+  "color": "#a8a8a8",
+  "blur": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAsAA4BaJZAC7AD6Gh+6a+EAAP09AyIlXs/h5qiQ9SP2Y57WwHLP56gCGls6ZPQ+UI3QMvaAAA==",
+  "src": {
+   "w": 1920,
+   "h": 1268
+  },
+  "v": "9abe9643"
+ },
+ "la-mort-de-sardanapale": {
+  "w": 1920,
+  "h": 1503,
+  "color": "#282828",
+  "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABwAgCdASoQAAwAA4BaJZACdAYv/vQyzmToojwAAP7mmMu5xTmYtNwj5OuhCStsYrNgVnYn2mumtxGXY+LLaer57x8FmNQRE869jlG1eynr71iRz/iXgqaeo49AAA==",
+  "src": {
+   "w": 1920,
+   "h": 1503
+  },
+  "v": "0151badb"
+ },
+ "la-mort-et-la-jeune-fille": {
+  "w": 1920,
+  "h": 1615,
+  "color": "#282818",
+  "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQAA0AA4BaJYgCdAYt9gLMPtQAAP5+dVIDhj80/qC0HOU0xpSvoHHs8MKTg1QTG9ySKw7omjhHSo/xtnkxm54EUYmGigEsg+K1Za4TYOqfv6/sOz+M1RkmO143qgAA",
+  "src": {
+   "w": 1920,
+   "h": 1615
+  },
+  "v": "4be30fc8"
+ },
+ "la-naissance-de-venus": {
+  "w": 1920,
+  "h": 1206,
+  "color": "#282818",
+  "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoQAAoAA4BaJaACdBPABfJsXfblgAD84ZT8Z+hLokz5ARGDocOqVplXR5q/4KpIXYY85l9B3lW0zvU5M9JCi3YvrtcjotyE6e4xYr4dUXSL8yoA",
+  "src": {
+   "w": 1920,
+   "h": 1206
+  },
+  "v": "203b1442"
+ },
+ "la-naissance-de-venus-bouguereau": {
+  "w": 1699,
+  "h": 2400,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoLABAAA4BaJQBOgMW5tLgXM4QAAP7uIYHguyl5mLxseCVa4ruV5Z2Ih9wm3zWg458ZJjjyIjHxQLWqW9kPVilARiXq4Q+d8oUYd5dsgTVsVBo/A8VXAAAA",
+  "src": {
+   "w": 1920,
+   "h": 2712
+  },
+  "v": "7d9e5416"
+ },
+ "la-naissance-de-venus-cabanel": {
+  "w": 1920,
+  "h": 1090,
+  "color": "#486898",
+  "blur": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoQAAkAA4BaJQBOgB9lTOo3E7UAAP6U3Sf9smiC2015KvG4u4Mwxo0O+u9ij9UGsdUAFajuGJPQ72f6ml//jggA",
+  "src": {
+   "w": 1920,
+   "h": 1090
+  },
+  "v": "56c31e45"
+ },
+ "la-naissance-de-venus-redon": {
+  "w": 1033,
+  "h": 2400,
+  "color": "#c8a888",
+  "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAABwAgCdASoHABAAA4BaJQBOj+CYAAVGEz5wFH1gAP6YQDoOR+xzOloiIMXqkT433InqC4ammJwmCfO3QaXSNHysNsC94hBOzvoJ7gad4edgAA==",
+  "src": {
+   "w": 1280,
+   "h": 2975
+  },
+  "v": "974a7dd6"
+ },
+ "la-nuit-etoilee": {
+  "w": 1920,
+  "h": 1520,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoQAA0AA4BaJYgCdAC7IAgmTyAA/r5ZVZR4HB1g6dlHGxbnPhj3+uU6xLHrAV5xQJFZEt+Wgesjchj9/AAGs7CfCPjr8YD7ZEhqorC6QenWRAwAAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1520
+  },
+  "v": "603dd967"
+ },
+ "la-partie-de-croquet": {
+  "w": 1170,
+  "h": 934,
+  "color": "#180808",
+  "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoQAA0AA4BaJbACdAEUpKFU6ZGHgAD+wQG7xUXhwi9L5QQgBxcg+TEUPMH5AnQFVI4YenROmOl/hOHXWjELDDQZGDFOqhxuKV4Sr5G1OT565Dd5VvxWT5pkqJ+rAAAA",
+  "src": {
+   "w": 1170,
+   "h": 934
+  },
+  "v": "6da758e6"
+ },
+ "la-persistance-de-la-memoire": {
+  "w": 371,
+  "h": 268,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwAgCdASoQAAsAA4BaJYgCdH8AGMLBkMfFAAD13XuawB1gKYAD6/gPOBtKKrVj7dhaZ9TKCuBInnBXffS4ixkQOA9BcWNazWy25M/IrSwAAA==",
+  "src": {
+   "w": 371,
+   "h": 268
+  },
+  "v": "a480d567"
+ },
+ "la-pieta": {
+  "w": 1584,
+  "h": 1660,
+  "color": "#281808",
+  "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoPABAAA4BaJQBOgCGZkJSba9xgAP72qmg6DEaMHbW+bfoiuoxTNs9dl0HkzFvSL9WJkC34K8sqOnbMsQqF21abwO5n0G/muclyt8VaCLRQGRkEtLwAAA==",
+  "src": {
+   "w": 1584,
+   "h": 1660
+  },
+  "v": "20906064"
+ },
+ "la-psyche": {
+  "w": 1920,
+  "h": 2349,
+  "color": "#989888",
+  "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoNABAAA4BaJQBOgBRfgMQpDgAA8DaWzK8SIp+6SRAmyn9eOIRkSq8W8Iy0BUjktNtaykUb3XeiZvrGOyQqufq/EA2e9+zGB/+iAAAA",
+  "src": {
+   "w": 1920,
+   "h": 2349
+  },
+  "v": "7d4deb87"
+ },
+ "la-raie-verte": {
+  "w": 1920,
+  "h": 2398,
+  "color": "#487868",
+  "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoNABAAA4BaJbACdAEfnfB8b0AA/VAB5t8VFPg6hhe2FekBDV3WIh5ppmvc8sKCuspUQkwsTIqjZtXHyM1tZyouusgNkdq63s+q2bigBLNYk5TVIw3LwXG+v7YpSFG5SIeAMT32bU0gAA==",
+  "src": {
+   "w": 1920,
+   "h": 2398
+  },
+  "v": "e15ff9a6"
+ },
+ "la-recompense-de-la-danseuse": {
+  "w": 1910,
+  "h": 2400,
+  "color": "#e8d8b8",
+  "blur": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoNABAAA4BaJQBOgCFQgjerWwAA/vHfH4cH3x2z1EVKJPxfXwEnf89mdo3iQCD9k/bs+Ichoe6fMEwjFDVY0AAA",
+  "src": {
+   "w": 1920,
+   "h": 2413
+  },
+  "v": "3ac78cdd"
+ },
+ "la-reddition-de-breda": {
+  "w": 1920,
+  "h": 1583,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQAA0AA4BaJQBOgCPa2U6kS5QAAP5Ykjfagwv5lk/MO9K47Ppqs8XfMXiO0zLIksG+qgVomoou9aAsLleZJj0TJrBVO2Ku1QwU7UWLWPFfrjfgAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1583
+  },
+  "v": "94eaa950"
+ },
+ "la-ronde-de-nuit": {
+  "w": 1920,
+  "h": 1562,
+  "color": "#181808",
+  "blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoQAA0AA4BaJagCdAEPDR5M0AAA/vd6qSj77iaDLDqjLTGqqGTVYY5UBymm3t5FrKn2U+WJ5o4Clm9qLPe+ge4jgAA=",
+  "src": {
+   "w": 1920,
+   "h": 1562
+  },
+  "v": "23083779"
+ },
+ "la-salle-a-manger-a-la-campagne": {
+  "w": 1920,
+  "h": 1515,
+  "color": "#a8c8e8",
+  "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQAgCdASoQAA0AA4BaJbACdH8AgsCKAzzmX5QA+9yq6dWgGtpXUT+PhfK2xLTS1SZhULVQ5U66xFIpMtN84Lat4Z26t3SaKdopSaY4fXD32Yq/xsscvpzkD4PMza91MerVAYnmgCTFw0AA",
+  "src": {
+   "w": 1920,
+   "h": 1515
+  },
+  "v": "750e7160"
+ },
+ "la-toilette-de-salome": {
+  "w": 1891,
+  "h": 2400,
+  "color": "#e8d8c8",
+  "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoNABAAA4BaJQBOgMWl3E9sDsw9gAD+8edsqUokvdXO2Zt34lI28eJgTgPw+VomygeADb06QNv4ingtiWh3uS3IYkUleUBn4K5QAAAA",
+  "src": {
+   "w": 1920,
+   "h": 2437
+  },
+  "v": "f047c5e5"
+ },
+ "la-trahison-des-images": {
+  "w": 378,
+  "h": 264,
+  "color": "#f8e8c8",
+  "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoQAAsAA4BaJYgCdAYu5gfIEkjScAD+yp5GNTxzF811Qjtv8c5JJppzaFEtcThJeqKayGpuFZJBmNArmWGSccTk45LJ3pj8TGq2DBScZQ/d3Pfoq2+PjbXDT+Q5AAAA",
+  "src": {
+   "w": 378,
+   "h": 264
+  },
+  "v": "42abd1bc"
+ },
+ "la-vierge-aux-rochers": {
+  "w": 1513,
+  "h": 2400,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoKABAAA4BaJYgCdAEQzVZMRFAA4n8WY2yFM+4LqFei2eJgArJvKquYhJy7rNXOCJNs2mf6bzCVXaUChlMItwYSnCyp8mrH6NYZlpSgSdeXOaTlhtA5VgAA",
+  "src": {
+   "w": 1920,
+   "h": 3045
+  },
+  "v": "809cfb37"
+ },
+ "la-vision-apres-le-sermon": {
+  "w": 1920,
+  "h": 1505,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQAgCdASoQAA0AA4BaJbACdAYsFc5cpcagAP6F026RTvypywjVUWUrB3rboBGcwKcq3+POJiGOG3/g1EGIRB8+5LabCePoZWUtfnSKHtYsiDm5QX8w8fFyPdenzu7ObYi6A9aH5irVJIXr7IvIAVvQAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1505
+  },
+  "v": "a1ce0c74"
+ },
+ "la-vocation-de-saint-matthieu": {
+  "w": 1920,
+  "h": 1813,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoQAA8AA4BaJYwC7AEPAoTrbKUoAP73fKO8is/8EgW2/7mp4/Um/LOCohWFWdowt42yMOjnHyzhzyuoAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1813
+  },
+  "v": "2ed3cb01"
+ },
+ "le-bain": {
+  "w": 963,
+  "h": 1536,
+  "color": "#989898",
+  "blur": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACQAQCdASoKABAAA4BaJQBWABqx2MAA/NETQNdUt5qlmpPZuVFKWzc+RJY4MEZzKbNj8C4FkJRgAA==",
+  "src": {
+   "w": 963,
+   "h": 1536
+  },
+  "v": "d22f324a"
+ },
+ "le-baiser": {
+  "w": 1920,
+  "h": 1927,
+  "color": "#786838",
+  "blur": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoQABAAA4BaJbACdADsFy4AAPpg6LxXaM7uTDNcBuj/pIoxFYjxb+Isup9CLi3S/OG5uy4UcEvVUQAA",
+  "src": {
+   "w": 1920,
+   "h": 1927
+  },
+  "v": "dbb4a48e"
+ },
+ "le-berceau": {
+  "w": 1866,
+  "h": 2400,
+  "color": "#b89888",
+  "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAQCdASoMABAAA4BaJQBOg7QAPovtgAD+VMMzYz1J4T4p2yRVH7uKBACwvVEegdS+zJQ5HbNnFWR/lVXjGb1Al4+QxNTGrXet3nNz2vDhF6N54BGn1AbUUVzAAA==",
+  "src": {
+   "w": 1920,
+   "h": 2470
+  },
+  "v": "c991c2b0"
+ },
+ "le-bonheur-de-vivre": {
+  "w": 1088,
+  "h": 784,
+  "color": "#e8d8c8",
+  "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAQCdASoQAAwAA4BaJbACdAYtVYBoYADxJX4TGS0o4STRVSRONB8Lx1MS7ho2KsptlkIep5AcgwnexXJpgKRZetWuP/GqkI1Ygq9e4HDlOLFvJxnYm4VPTr5ZAAAA",
+  "src": {
+   "w": 1088,
+   "h": 784
+  },
+  "v": "ac054483"
+ },
+ "le-bouddha": {
+  "w": 1881,
+  "h": 2400,
+  "color": "#b8a888",
+  "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACQAQCdASoNABAAA4BaJQBOgCHToAAA/lhFpOtCDTAxeDVLAw9yPmgsz0pWCH9oJprEc9KEoEtinLnZtUfaNcGQxX4AAA==",
+  "src": {
+   "w": 1920,
+   "h": 2450
+  },
+  "v": "db72bc16"
+ },
+ "le-cavalier-bleu": {
+  "w": 1232,
+  "h": 1183,
+  "color": "#485818",
+  "blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoQAA8AA4BaJZgCdADVlreogAD+c0aqStuQ+rpRhZb4JzQpPSBBxQY75H0lpLGxap877I37ZaAKta8EJCgyKqi1AAA=",
+  "src": {
+   "w": 1232,
+   "h": 1183
+  },
+  "v": "31ba7a33"
+ },
+ "le-cercle-magique": {
+  "w": 1255,
+  "h": 1880,
+  "color": "#584838",
+  "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoLABAAA4BaJQBOgBu1Ueq9x5AA/rxRim2I1TnGmaQL93YQYW9rqs7e0zUMtn+zN88X9wlzPrFEdpMktFGLqxTFDzsDAAAA",
+  "src": {
+   "w": 1255,
+   "h": 1880
+  },
+  "v": "b1586c23"
+ },
+ "le-cerf-blesse": {
+  "w": 404,
+  "h": 312,
+  "color": "#583828",
+  "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQAAwAA4BaJbACdAYv/Q06Xuq4AAD+PCCfgOAVaSWCaAtK9P738Y8ug2h8lkDWArUjZolahzNAv8xQQMV2cZMu7ASRjPfGPeUG8H/nyvZfG9Ic361lWTGBAAA=",
+  "src": {
+   "w": 404,
+   "h": 312
+  },
+  "v": "ffcff7f3"
+ },
+ "le-chien": {
+  "w": 1414,
+  "h": 2400,
+  "color": "#a89868",
+  "blur": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoJABAAA4BaJaACdADZjZ38hAD3uttggA3WGnre7Ma81p0SESfDYZs+amuU1LfXrTy8YHvlspBSL3gA",
+  "src": {
+   "w": 1797,
+   "h": 3051
+  },
+  "v": "a6981dea"
+ },
+ "le-christ-de-saint-jean-de-la-croix": {
+  "w": 237,
+  "h": 421,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoJABAAA4BaJZQAAuc1QbZeeAD+9LEiJtm6TdWXySDS93UhuzSIm7Fy6L2a3HKY5QOAAA==",
+  "src": {
+   "w": 237,
+   "h": 421
+  },
+  "v": "bbbecc04"
+ },
+ "le-christ-jaune": {
+  "w": 1908,
+  "h": 2400,
+  "color": "#683818",
+  "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoNABAAA4BaJbACdAEP94Gy5qAAzKLFnTI2SjIpgJdoGUT/8w3/OcPgJLpijrhI1PXh81vjwkJ2r7pAQOxLf3l2Ek3K3Mz3V1R3t2yL3AAAAA==",
+  "src": {
+   "w": 1920,
+   "h": 2415
+  },
+  "v": "0930146c"
+ },
+ "le-cyclope": {
+  "w": 1908,
+  "h": 2400,
+  "color": "#180808",
+  "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoNABAAA4BaJQBOgCKyV2pjBEwAAP62W1e47DIsBPitssvINZ4YSf+BKV1JUcjEOaUN9QgjpF0guTWZ5Ga7PlgzrcJXAAAA",
+  "src": {
+   "w": 1920,
+   "h": 2415
+  },
+  "v": "a4f38f3b"
+ },
+ "le-cygne-n12": {
+  "w": 1920,
+  "h": 1932,
+  "color": "#b8b8b8",
+  "blur": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACQAQCdASoQABAAA4BaJYwAAkifZRAA/tOejqw1NBXu9kOiOAZx3nxGcEpcyY/zWfsUv7Xk8KCAAA==",
+  "src": {
+   "w": 1920,
+   "h": 1932
+  },
+  "v": "b9c61446"
+ },
+ "le-dejeuner-des-canotiers": {
+  "w": 1920,
+  "h": 1422,
+  "color": "#283838",
+  "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoQAAwAA4BaJYgCdAYv1WtBh5MHJAD43zV6g5vDX/+kvYlGqqjDt4+6Vg6TosPygNhIWm8KxC1DEgrrwcYlt6zWZXxJwgyOD8ibvwd4EjTfhb7KiK1bkFAeIEAAAA==",
+  "src": {
+   "w": 1920,
+   "h": 1422
+  },
+  "v": "dce80e04"
+ },
+ "le-fils-de-l-homme": {
+  "w": 276,
+  "h": 362,
+  "color": "#485868",
+  "blur": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoMABAAA4BaJZQC7AECvwyxWJNAAP6UHiv5YM7/xgkGcQAo8vCl7RextdUJMSovGIpl8XHA4zeg7MlhE+thwAAA",
+  "src": {
+   "w": 276,
+   "h": 362
+  },
+  "v": "f8f664d8"
+ },
+ "le-garcon-au-gilet-rouge": {
+  "w": 1920,
+  "h": 2378,
+  "color": "#181828",
+  "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoNABAAA4BaJYwCdAYv1y2EwpwlpCkAAP7sfYPG7LvHeVt4uMLGnyFONVolMI5smvFlLxOxoS65TA1zk80l+ehZirReR+KVNIwUFXWdWpeaqmIbeVuX07hLXD33aiG7R21yeRBQP3mZlggA",
+  "src": {
+   "w": 1920,
+   "h": 2378
+  },
+  "v": "e668fdc2"
+ },
+ "le-jugement-dernier": {
+  "w": 1920,
+  "h": 2114,
+  "color": "#383838",
+  "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoPABAAA4BaJZQCdAC20Ya+FhngAP1NUh8J0Qdw9Xkg1q+mAf9+XGPDOT84dVC4495Y0mgVn3y812pfq4Qr8S4wCpb6vqALh7HAAA==",
+  "src": {
+   "w": 1920,
+   "h": 2114
+  },
+  "v": "799ec9e6"
+ },
+ "le-panier-de-pommes": {
+  "w": 1920,
+  "h": 1537,
+  "color": "#a8b8a8",
+  "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABwAgCdASoQAA0AA4BaJZgCdAYvrqpLJEjOd5oAAPKlWrJEj/ffjLP38cREn9zuYFbYBVOvbsQ07hOxnjoLrWsUcq4pNE7JejK2j9WptcYal2aRisfCwwQzK1qej3jtcuS2m++1WAA=",
+  "src": {
+   "w": 1920,
+   "h": 1537
+  },
+  "v": "513f6282"
+ },
+ "le-retour-du-fils-prodigue": {
+  "w": 1840,
+  "h": 2400,
+  "color": "#180808",
+  "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoMABAAA4BaJZgCdAEOJEb2AAD+93qej8Vnt1opbGP4O2ARdayrsXB9i/exajP1bYUMYyEo+MoP9d31IyL1JJ7tzgAAAA==",
+  "src": {
+   "w": 1920,
+   "h": 2505
+  },
+  "v": "17fd1613"
+ },
+ "le-sechage-des-voiles": {
+  "w": 1200,
+  "h": 984,
+  "color": "#d8c8b8",
+  "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACQAgCdASoQAA0AA4BaJZgCdH8GJ/gfRXioI2YDgAD8s3AsTKStpHIg+PzICx2fXyvvndNsFEUkAiEIx78lGlkfnLTwM5zzQHs93qCXrYFWBFnVmoWOJXbxEsAhgYUcBiOV6LzZsnLMgwgA",
+  "src": {
+   "w": 1200,
+   "h": 984
+  },
+  "v": "f9a25134"
+ },
+ "le-sommeil-de-la-raison": {
+  "w": 1587,
+  "h": 2400,
+  "color": "#d8c8c8",
+  "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoLABAAA4BaJZQCdADQ8T+KTgAA/FxmfFVWl8NpIqIwjuNfN727GPPam+YCekvPjqq8B0r1qrDf8XpcxCiRmFdSiz2AAA==",
+  "src": {
+   "w": 1920,
+   "h": 2904
+  },
+  "v": "b0e0e940"
+ },
+ "le-souper-a-emmaus": {
+  "w": 1920,
+  "h": 1365,
+  "color": "#281818",
+  "blur": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAwAgCdASoQAAsAA4BaJYwCdAEPAXSpQfuYAAD+9FHhI+FtsIZy0agIKvqAyLeiU2g7oNbFtHZP/nN3wGh71OspAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1365
+  },
+  "v": "fec63ef0"
+ },
+ "le-tondo-doni": {
+  "w": 1920,
+  "h": 1977,
+  "color": "#f8f8f8",
+  "blur": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAACwAgCdASoQABAAA4BaJbACdH8Aj03jXi/i7zYG8gAA/vKGO2/yFo/buD2wagy/+bR+GDJ/2Cc1bQ/89WiWs8Z+QpWCM5Z357bXfGLcyG26lB5ULmh+vjcsqQp6P90GXgO0j2mRBhnOO06xc4IeXODuiBiovTZl6i+/RnmFnScgeF5KKKBAfd8lsefaJCf8L5q0TiiHIKoAAA==",
+  "src": {
+   "w": 1920,
+   "h": 1977
+  },
+  "v": "a0504435"
+ },
+ "le-tub": {
+  "w": 1920,
+  "h": 1401,
+  "color": "#585858",
+  "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAwAA4BaJZACdADDIfHE70gAAP6Zf2qhcUzeeG3+JRhi4t8apMlunChtO6gq52WuPCKR9GWTr7d8YDeAZ5t2HjUptsSzaywAAA==",
+  "src": {
+   "w": 1920,
+   "h": 1401
+  },
+  "v": "2ac23f05"
+ },
+ "le-vieux-guitariste-aveugle": {
+  "w": 1611,
+  "h": 2400,
+  "color": "#283838",
+  "blur": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoLABAAA4BaJQBOgCabCtmpQAD+v38WzqszGTZ+pRWRQpwhUzUIES52Q672+AAA",
+  "src": {
+   "w": 1920,
+   "h": 2860
+  },
+  "v": "c0cf7550"
+ },
+ "le-violoniste-vert": {
+  "w": 1314,
+  "h": 2400,
+  "color": "#c8b8a8",
+  "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoJABAAA4BaJYgCdAYv/kzTr15IwAD+YCerqgVae9Yt8LYi15lAlP96EXyqAcUpofH54PbBkDzohyZERBSzzR5h5fjBIL9CEGeO6YCOAdRT5XAA",
+  "src": {
+   "w": 1920,
+   "h": 3508
+  },
+  "v": "f90da718"
+ },
+ "les-amants": {
+  "w": 1920,
+  "h": 1412,
+  "color": "#383838",
+  "blur": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAwAA4BaJZwC7AEPfwOc4oAA/s0bKi+0TOKiFor7JoOYdell54eEAHyC3vK4LU/a0l5QGHIFX3RzQAA=",
+  "src": {
+   "w": 1920,
+   "h": 1412
+  },
+  "v": "55412e0c"
+ },
+ "les-demoiselles-d-avignon": {
+  "w": 1920,
+  "h": 1989,
+  "color": "#d89888",
+  "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACwAQCdASoPABAAA4BaJagCdADORvQAAPJT2atGe7LrySixAq4LqfqyGz5cEHXf+tJYZ1UPZtjvORNIhvfNnD/j2i+iPwGzn8ELPYBIoN0SMve/aHnAY4lV3AAAAA==",
+  "src": {
+   "w": 1920,
+   "h": 1989
+  },
+  "v": "a15c7d03"
+ },
+ "les-deux-frida": {
+  "w": 315,
+  "h": 317,
+  "color": "#e8e8e8",
+  "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAQCdASoQABAAA4BaJZACdACAy5E2ikAA4jQRuAPdqotwmpsZidbyxT/HNo7TLySlubG7zoyKV//61GQmzUF37V+il9M1WPVCIt+W1ru7/nguYZ87yu1aQ468beHQY1c2K2dD/AA=",
+  "src": {
+   "w": 315,
+   "h": 317
+  },
+  "v": "a902fdf0"
+ },
+ "les-dix-plus-grands-n3": {
+  "w": 1350,
+  "h": 1800,
+  "color": "#c86838",
+  "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAACQAgCdASoMABAAA4BaJbACdLoAyv8bwLf67ZRAAAD+7edINNQx/885s6MQFGttete2ck2bRR996GBO6esleuT0OIXfH34ZDQyFak01RhYXAKI9gSWHtLNVB+1pzwYPFa1lrZ+5FjB8eND8rHFseY2dWGMSMAAA",
+  "src": {
+   "w": 1350,
+   "h": 1800
+  },
+  "v": "38a9ac38"
+ },
+ "les-dix-plus-grands-n7": {
+  "w": 1357,
+  "h": 1800,
+  "color": "#b89898",
+  "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAQCdASoMABAAA4BaJbACdACA4veaAAD+YQb3eaBJf25uJcLszIuzaYOvb7c3F1i+ZY9DYG2sheowo8e6N9JNR3k5qSMQ+bNzkaGIisaPdrSOLDVTQtGkmwNOU7S3DeZB7AAA",
+  "src": {
+   "w": 1357,
+   "h": 1800
+  },
+  "v": "1f98e505"
+ },
+ "les-fileuses": {
+  "w": 1920,
+  "h": 1324,
+  "color": "#282818",
+  "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoQAAsAA4BaJQBOgCbYIHkMvJtPMAD+6ZCG3Xdqj9NtAQGyE6lZdhNSHnnfVUP99OaVQktl2r1N74tkWQ+aADZB+DIndPLEKx9JlSgAAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1324
+  },
+  "v": "7cc75542"
+ },
+ "les-grandes-baigneuses": {
+  "w": 1920,
+  "h": 1605,
+  "color": "#788898",
+  "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoQAA0AA4BaJZAC7AC1c5EAAMkDHpecxAJly1FZpL41GLPUy5aFANLxikK2LG7G8AOMJUTAEFAXcKVHi0zaYePhDk+IAA==",
+  "src": {
+   "w": 1920,
+   "h": 1605
+  },
+  "v": "7fa338fb"
+ },
+ "les-grandes-baigneuses-renoir": {
+  "w": 1920,
+  "h": 1316,
+  "color": "#d8b8a8",
+  "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQAAsAA4BaJYgCdADPz3GAPW4AAP5B6ZqT9/t2A9KUhFWeIIEt7VpemME5xqGlc/7xFAb+Roi0p8G/DR8i26i0f9WFvtCKMqOuNX6t60xWsE0zkAA=",
+  "src": {
+   "w": 1920,
+   "h": 1316
+  },
+  "v": "64445d0a"
+ },
+ "les-iris": {
+  "w": 1920,
+  "h": 1467,
+  "color": "#78a888",
+  "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACQAQCdASoQAAwAA4BaJZACdABv7sAA/ZmP18fu59OJObe1vcPBwmWH1W57Lanqw8MsqLQ+y/8SMCmz4ch4a30aH8gAAA==",
+  "src": {
+   "w": 1920,
+   "h": 1467
+  },
+  "v": "7aa5631e"
+ },
+ "les-joueurs-de-cartes": {
+  "w": 1920,
+  "h": 1575,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQAA0AA4BaJagCdADRZakGp3o+AAD+81EUtxq5xPui6CzF5CLqiYqXo5UYYML4VVkjst8caWFOsyi87uaPSYvtVgpcp1aygGmYgrlp71HFRxCS3TAm+vaVAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1575
+  },
+  "v": "4f88b905"
+ },
+ "les-menines": {
+  "w": 1920,
+  "h": 2210,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoOABAAA4BaJYwCdAEf/qhGSIwAAP70W/r/mIOZWLu7wyit7H4YqqAj8zZNoSKyPt7HA3ecrX4mleucGdc7gAAA",
+  "src": {
+   "w": 1920,
+   "h": 2210
+  },
+  "v": "db0dfdc5"
+ },
+ "les-meules": {
+  "w": 1920,
+  "h": 1138,
+  "color": "#c8c8b8",
+  "blur": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAQCdASoQAAkAA4BaJYwC7AEUn6V5yfAA/rIyNNqzwUIhzaO40TG1sjD8FhG0OhAAAA==",
+  "src": {
+   "w": 1920,
+   "h": 1138
+  },
+  "v": "dbcf0190"
+ },
+ "les-nympheas": {
+  "w": 1920,
+  "h": 637,
+  "color": "#584838",
+  "blur": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoQAAUAA4BaJYgCdADaGAOsAP52p53H5mB+5axVSkiQTE8fxOQAAA==",
+  "src": {
+   "w": 1920,
+   "h": 637
+  },
+  "v": "4a01362a"
+ },
+ "les-oreades": {
+  "w": 1828,
+  "h": 2400,
+  "color": "#081808",
+  "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoMABAAA4BaJZACdAEWgat8sKYIAAD+62Dju5O5or7FrWJuM6+AAfP5fz1moEvrvhViEWr7rpKdVlK7B0t/zjTFWPHk+Q1yBmLz7N0jLGl8Xni+JTHBwekAdQAAAA==",
+  "src": {
+   "w": 1920,
+   "h": 2521
+  },
+  "v": "689fcf8b"
+ },
+ "les-quatre-arbres": {
+  "w": 1920,
+  "h": 1536,
+  "color": "#183828",
+  "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoQAA0AA4BaJaACdACVDT9CAAD+O0vBd6jiqb+U5NYQdzXhQhR93P2XvuorykBZnfx33Im2PKX3cNwYf4gGnp+rzFvryMBiJhNZ+h+9BAA=",
+  "src": {
+   "w": 1920,
+   "h": 1536
+  },
+  "v": "2a484448"
+ },
+ "les-saisons": {
+  "w": 1742,
+  "h": 1192,
+  "color": "#f8f8e8",
+  "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoQAAsAA4BaJZACdAED+2WQAAD+6F8lnwn/p3BzBGO2YWhaYF3aeRZQYeyEQnqmiiJudEsSwowWe9CYgePAo5xuqFSE0TgbbdwwAAAA",
+  "src": {
+   "w": 1742,
+   "h": 1192
+  },
+  "v": "047b5e1a"
+ },
+ "les-tournesols": {
+  "w": 1902,
+  "h": 2400,
+  "color": "#e8d878",
+  "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoNABAAA4BaJbACdADp9NX8YrkeAAD+6GdJ43owL00KT27rFP/T2MOlvkH1CjhO75rd2fsc9uHN3XXbKjYC5dXT0Nr14Jpf+UAuaVnp5F7/xb8G/0JVYJIZQDAgAA==",
+  "src": {
+   "w": 1920,
+   "h": 2423
+  },
+  "v": "15b67b45"
+ },
+ "les-trois-ages-de-la-femme": {
+  "w": 1920,
+  "h": 1910,
+  "color": "#282828",
+  "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoQABAAA4BaJQBOgB08gCNKxQAA/vE9ehJxgvkXu6MflwoP8ufyaeO+5mhrfXrLmGYl7AQppUQ3ybnzzhOL6Vgz5O7vfBWN4AA=",
+  "src": {
+   "w": 1920,
+   "h": 1910
+  },
+  "v": "1ab19b32"
+ },
+ "les-trois-musiciens": {
+  "w": 1920,
+  "h": 1728,
+  "color": "#281818",
+  "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAA4AA4BaJQBOgMXDytWXiM48AP7vogoN/A3t6phJf8rJ8lMl46rUJhQUvePXLnTLcT2FLDcvqIToy2n2B5T7Ff8VqKzdXCsETwjHiKfkEFIIjwzVTPHBjrDwAA==",
+  "src": {
+   "w": 1920,
+   "h": 1728
+  },
+  "v": "54f88838"
+ },
+ "luxe-calme-et-volupte": {
+  "w": 1779,
+  "h": 1467,
+  "color": "#e8e8e8",
+  "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoQAA0AA4BaJZgC7AEf/NrR5IAAAP7rpAJxfIqaL6RJPXdiREtTyxHgXYEGZrJOcXb2YTqHFCDjcMLVxxgB2hh/R/UkEwAA",
+  "src": {
+   "w": 1779,
+   "h": 1467
+  },
+  "v": "bd1b8bbb"
+ },
+ "meduse": {
+  "w": 1920,
+  "h": 1968,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADQAgCdASoQABAAA4BaJZACdAYuv21OvS96zDaF7/wAAP7Yd3I27JwgZlZucdlf1GaUi6T5ZPsPGWwfn+tlSVZhubG7NoewFhc/mUzkrHNz+hvqDCTY1HvfceHdDA00PoHm738S9z27r6K01TsrC7QOV+Ex6VP7dvVv4In4AAA=",
+  "src": {
+   "w": 1920,
+   "h": 1968
+  },
+  "v": "59b23649"
+ },
+ "mere-et-soeur-de-l-artiste": {
+  "w": 842,
+  "h": 692,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAA0AA4BaJbACdAD6mnjJFgAA/qr2mEDbVqNH4KtqGZAMGQJn+D3csIvOfmIUFWFLue00OaecwQZOEo26GzRpCrkfrdXVSiijJziwdqAAAA==",
+  "src": {
+   "w": 842,
+   "h": 692
+  },
+  "v": "3d0f0439"
+ },
+ "misia-au-piano": {
+  "w": 1920,
+  "h": 1993,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoPABAAA4BaJagCdAEDGGm7yVUAAPzIcMS1RHl+hX8U6drMJtZIL3iV+mB02MMmNYgPXhfvA8ohL4MSYO8B6tU828fvlXYyQAA=",
+  "src": {
+   "w": 1920,
+   "h": 1993
+  },
+  "v": "141b89f4"
+ },
+ "moi-et-le-village": {
+  "w": 1571,
+  "h": 2000,
+  "color": "#a8a8b8",
+  "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACwAQCdASoNABAAA4BaJQBOgBeV5lWaAPZF9oKiZ0LIJL50lBx6YVyFMSs6wp5WRpXyWB6UKx2Ad/TK3L3pKyiiDcuT8zyG7IxiSgoD3qCef3jJ4iVOzRrjyZBIN5kOL4AAAA==",
+  "src": {
+   "w": 1571,
+   "h": 2000
+  },
+  "v": "e73aac60"
+ },
+ "montagnes-a-collioure": {
+  "w": 1920,
+  "h": 1516,
+  "color": "#e8e8d8",
+  "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoQAA0AA4BaJbACdDBOwX+OpUuUaxAAAP6bPkqkJCrGqLi2Yxzid0LV3Y19fGRzdUazZCw/FvQ9jOpa4/J0UOuMsj/VG1HJwZUYsTsM/HDpcBA75frXPkdgdpXaXsaFDaQJwR7uQlpawAAA",
+  "src": {
+   "w": 1920,
+   "h": 1516
+  },
+  "v": "42ef70ab"
+ },
+ "morning-sun": {
+  "w": 1920,
+  "h": 1335,
+  "color": "#b8b898",
+  "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoQAAsAA4BaJZACdH8AGAD7oUzwAM3x7bsqD0HnM8yi5QVvDhuP5SEfltsHnmPOyOkXntJrOIsOj9k0bNx+mW4wlxUpRnrcYPNGL5aDmCB2TuwA",
+  "src": {
+   "w": 1920,
+   "h": 1335
+  },
+  "v": "f8a9e1fd"
+ },
+ "moulin-rouge-la-goulue": {
+  "w": 1492,
+  "h": 2400,
+  "color": "#e8d8c8",
+  "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwAQCdASoKABAAA4BaJaACdADhTzMoAP5mMpyRLcxkZLI8+Umzh/qTznrYODOUT8CPANcoi8IytKF05Zta/zsxv8pHyW1aBHPl0sVUnpBmq+Z5zMMrEC3ClMxB00RLJD3QwAAA",
+  "src": {
+   "w": 1920,
+   "h": 3088
+  },
+  "v": "9425c885"
+ },
+ "mural": {
+  "w": 503,
+  "h": 198,
+  "color": "#282818",
+  "blur": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAABwAQCdASoQAAYAA4BaJYwAAWSm8ADbkPNw8fZDcKnWO76/Bf7EhNZFykOv/uT9LgOAAA==",
+  "src": {
+   "w": 503,
+   "h": 198
+  },
+  "v": "e7ea6f3e"
+ },
+ "nighthawks": {
+  "w": 1920,
+  "h": 1048,
+  "color": "#182828",
+  "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoQAAkAA4BaJZACdAEO5oSmAAD+8PT2sIkxpLBuIvkECuSGru82a5le+MmbJQiSow7NHKaKQQCABfrrEwAAAA==",
+  "src": {
+   "w": 1920,
+   "h": 1048
+  },
+  "v": "3e306c59"
+ },
+ "no-5-1948": {
+  "w": 221,
+  "h": 449,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACQAQCdASoIABAAA4BaJY12ARgAqkAA/uub1+Xf9AaL8AqHXr2b+gCDAueoY6S9+SygAA==",
+  "src": {
+   "w": 221,
+   "h": 449
+  },
+  "v": "85d486a2"
+ },
+ "nu-couche": {
+  "w": 1920,
+  "h": 1209,
+  "color": "#d88858",
+  "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoQAAoAA4BaJbACdAEWdRfQoPEAAP7SkpwRARmQrlvsipWwMh4znzCbVOhu5DP5kWS+W20pMmsXy4Jzryoaqc70nYWgKjc09pQJnTMjsCXKey/ak133zAAA",
+  "src": {
+   "w": 1920,
+   "h": 1209
+  },
+  "v": "a942a9fe"
+ },
+ "nymphes-et-satyre": {
+  "w": 1656,
+  "h": 2400,
+  "color": "#382818",
+  "blur": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoLABAAA4BaJQBOgCHeqUbj32gAAP7yrdRdCAZGqyThWWD9+NQI6iB0+RGo1Y7QN8/hHa/jjIRISb2kQ7CCDsAA",
+  "src": {
+   "w": 1920,
+   "h": 2783
+  },
+  "v": "4add490c"
+ },
+ "oedipe-et-le-sphinx": {
+  "w": 1243,
+  "h": 2400,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoIABAAA4BaJQBOgCP7PxVgXGAA/uzbT1BBR1AWEDRZfWlCcuonf4ocmpr3RvQ/x9qaAMc4bMbxEfMzYAA=",
+  "src": {
+   "w": 1920,
+   "h": 3707
+  },
+  "v": "76b96db1"
+ },
+ "olympia": {
+  "w": 1920,
+  "h": 1299,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQAgCdASoQAAsAA4BaJYwC7B2gDY3sq7UhYZNPAAD+72jugOPKOcRaM6+Ce74I8Sd99ZAfsB3CzrM59AhK5BAqNTYwqYiV9ydOV8JWxeldSC/4kG+NmTSQjdDMUdnYM3VwAAAA",
+  "src": {
+   "w": 1920,
+   "h": 1299
+  },
+  "v": "1d02f39e"
+ },
+ "ophelie-parmi-les-fleurs": {
+  "w": 1920,
+  "h": 1349,
+  "color": "#785838",
+  "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAwAgCdASoQAAsAA4BaJZgCdH8AFv7/4/nbAAD9iwbFpoeleZqsirMYLlvf81l0FTnicxwJUyKHUNRtY465StMDzxUipQt8CIAAAA==",
+  "src": {
+   "w": 1920,
+   "h": 1349
+  },
+  "v": "0bac29f5"
+ },
+ "orphee": {
+  "w": 1516,
+  "h": 2400,
+  "color": "#383828",
+  "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAABQAgCdASoKABAAA4BaJagCdAEWYTtYkPYG4QAA/sD7n/zmRybeHek5TIFU+wAfDBGYKRDwL9qEDSZ6JyHyf/xaCZbIHX8CW+vkiXeSQHpAAA==",
+  "src": {
+   "w": 1920,
+   "h": 3040
+  },
+  "v": "fdf79d3b"
+ },
+ "petite-danseuse-de-quatorze-ans": {
+  "w": 1732,
+  "h": 2400,
+  "color": "#787878",
+  "blur": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoMABAAA4BaJZQC7ADz6TCUS10AAP6iVLjYjSdj36EmNoMoGTsHfHmGSPIQlosDn+S/i0HhObF3wQBBAAA=",
+  "src": {
+   "w": 1920,
+   "h": 2660
+  },
+  "v": "f6c4a420"
+ },
+ "phedre": {
+  "w": 1920,
+  "h": 1314,
+  "color": "#281818",
+  "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACwAQCdASoQAAsAA4BaJQBOgCEYBW0QAP7vd+hZ4Bjj/NUbWy4I75g5CRNxg5xes9ydNZ01UJr7p8870YqcvTf4unYxd/6oAM0hjfYNEc2HdefcFcr4xmvztMgAAA==",
+  "src": {
+   "w": 1920,
+   "h": 1314
+  },
+  "v": "e42c1a9e"
+ },
+ "plusieurs-cercles": {
+  "w": 1800,
+  "h": 1833,
+  "color": "#282838",
+  "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoQABAAA4BaJQBOgMWgzSa+sgAA/uxH5r7ozcG5eXXujBuplTENr0tpA46e1Lj+ruZcgz1NBYdVIsxpXu0Nrbb7DV03Ot9Hszyc0pY7YQw9FEQ4oq+Ci4OvyuEeVNuAE/wAAA==",
+  "src": {
+   "w": 1800,
+   "h": 1833
+  },
+  "v": "9e394686"
+ },
+ "portrait-d-adele-bloch-bauer": {
+  "w": 1415,
+  "h": 1416,
+  "color": "#985808",
+  "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoQABAAA4BaJbACdABaJSjkAPev3c0huPE7wbTyNzWRKvArV39Wb21Qe3qbtrargHqeX/iccIhfLDgl/xQoM67G/wAAAA==",
+  "src": {
+   "w": 1415,
+   "h": 1416
+  },
+  "v": "c47a73c1"
+ },
+ "portrait-d-innocent-x": {
+  "w": 1881,
+  "h": 2400,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQAgCdASoNABAAA4BaJZgCdAEPDpu2OwMBmwAA/u7u5ec2zc3O2SJXZs6kozI11l6mqccbf3gA93mbYY54pk6Nr8nk6BjIuTB+b4EraG2d8VlNASynX4b8A8QQFvmJ6fv9kXuuhSWeKlSsAAA=",
+  "src": {
+   "w": 1920,
+   "h": 2450
+  },
+  "v": "8cb219cc"
+ },
+ "portrait-de-paul-guillaume": {
+  "w": 1697,
+  "h": 2400,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoLABAAA4BaJYwCsAELXinYAAD+9o4VH04zbDK5lDqmpmswiryI785qLb0AAA==",
+  "src": {
+   "w": 1920,
+   "h": 2715
+  },
+  "v": "0f5e9622"
+ },
+ "portrait-de-wally": {
+  "w": 1920,
+  "h": 1560,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQAA0AA4BaJYgCdAClGxoJQ3gAAP6cEEQbLEqDAcOqczhlNX0MsCQ1HnYx5VtqqUgfczCd3A6Ie6SHhS5/mvPUx47OzAmZFk8v/hiuZqbl+WDQqpDJxLAmAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1560
+  },
+  "v": "f43fd514"
+ },
+ "premonition-de-la-guerre-civile": {
+  "w": 317,
+  "h": 315,
+  "color": "#383828",
+  "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAACQAgCdASoQABAAA4BaJZgCdAdwLfNz5vifmHj5AAD+QRhl2YPWTwbpX+QH6XuFUSJTGC0F30wA/J/83D5N542I2NDtJzv9LFEHhoZQHar6/8e5UUCf463WR8FaUW6X9iRohB4kEoYAcDvcu7kWwJIcFlGqpMdgAAA=",
+  "src": {
+   "w": 317,
+   "h": 315
+  },
+  "v": "6fc2ddef"
+ },
+ "retable-n1": {
+  "w": 1808,
+  "h": 2400,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoMABAAA4BaJZACdAEVV7ExwjsCDwAA/D2NXLzvK/2ffTTE9TZ5KVFvvbzqDimNe3tS6HfthR/QrZguWHOQHCrljglTYazqXKTX5bydgMqYelQsivgAqTRAAAA=",
+  "src": {
+   "w": 1920,
+   "h": 2548
+  },
+  "v": "165b7dfb"
+ },
+ "reve-cause-par-le-vol-d-une-abeille": {
+  "w": 281,
+  "h": 354,
+  "color": "#a8c8d8",
+  "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoNABAAA4BaJYgCdAEOyG7ZNYAA/sVeoijyemIUIi4TQhhEacUJHohZX58y62PsZl+4EDOCq0syoc+RazMTc9VXz4ucmEHgj+oD8lME3LeEkAAA",
+  "src": {
+   "w": 281,
+   "h": 354
+  },
+  "v": "44559413"
+ },
+ "saturne-devorant-un-de-ses-fils": {
+  "w": 1307,
+  "h": 2400,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoJABAAA4BaJZQAAveFe5tlQgAA/vbzSXmusOutb2Ze7Iz2TQk7P4T2PJjtwSFTgtXrH4MItuiMlccHU0OuMa1FXm0q3QFkgAA=",
+  "src": {
+   "w": 1661,
+   "h": 3051
+  },
+  "v": "680ba622"
+ },
+ "scenes-des-massacres-de-scio": {
+  "w": 1920,
+  "h": 2280,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoNABAAA4BaJZQCw7Yv1m/g+1FBgAD43k7NTj9tVTUnwzSKVRuXpt4qmjP51ql/DR7SivM7oTKe4Jl/ync3bCnRDaFJd5TZEbSaJJmkqzXw+QAA",
+  "src": {
+   "w": 1920,
+   "h": 2280
+  },
+  "v": "8f5b2ffa"
+ },
+ "terrasse-du-cafe-le-soir": {
+  "w": 1920,
+  "h": 2394,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoNABAAA4BaJagCdADb0xlHlywAAP6maCUyUYZ7i0phfzwO/E+c7dWqX+WkjO4NcCJ9EkSLQ7nX9UBSaH3pSPtlyxDC7sbrPuGsm1LeAAA=",
+  "src": {
+   "w": 1920,
+   "h": 2394
+  },
+  "v": "b7b30387"
+ },
+ "tete-modigliani": {
+  "w": 1600,
+  "h": 2400,
+  "color": "#d8d8d8",
+  "blur": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoLABAAA4BaJYwCdAEOJWWMzuAA/u3gOet226cGJY0RZI0ZOmrnWSi4SNN7qMclyJq95wTmMH+9x0jnIo1kNlAA",
+  "src": {
+   "w": 1920,
+   "h": 2880
+  },
+  "v": "0f5122bd"
+ },
+ "tres-de-mayo": {
+  "w": 1920,
+  "h": 1483,
+  "color": "#181818",
+  "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAwAgCdASoQAAwAA4BaJZACdADdjlR6b1RcAAD+6a/Aunx60Ipur79d8p0XM06drBLgL1J7G4ZnRSvbhMs92tXFRFtggvyqK2xXaAwAAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1483
+  },
+  "v": "01038408"
+ },
+ "ulysse-et-les-sirenes": {
+  "w": 1920,
+  "h": 940,
+  "color": "#787868",
+  "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAwAgCdASoQAAgAA4BaJZACdH8AF8tyhLjFAAD+J63q2sVBEICFZxZhhrdWZmDp3jfNtDGEysumIIfX6ZHlgzrIsoAAAA==",
+  "src": {
+   "w": 1920,
+   "h": 940
+  },
+  "v": "1c82f815"
+ },
+ "venus-a-son-miroir": {
+  "w": 1920,
+  "h": 1317,
+  "color": "#383838",
+  "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoQAAsAA4BaJQBOgB3wq0E46wAA/s30N2ZzBSgI7h30QRoMlFM3Pv8ynYB8fH7BJHVfaZmqETzIyF8Hjt/ciT2P4oLCFSPSoB3TjBeiEMkkAAAA",
+  "src": {
+   "w": 1920,
+   "h": 1317
+  },
+  "v": "0120893c"
+ },
+ "venus-anadyomene": {
+  "w": 800,
+  "h": 1359,
+  "color": "#d8c8a8",
+  "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAABQAgCdASoJABAAA4BaJYwC7AYvXk0TJRqXqrAA/tJkmVXU4DYs77RshrEohG12i1oh3S3g1/+WCoXD6HjrAI3QN1fvvJgQv13nvLRPJibYYdjaxNgAAA==",
+  "src": {
+   "w": 800,
+   "h": 1359
+  },
+  "v": "2b49d5fe"
+ },
+ "venus-d-urbin": {
+  "w": 1920,
+  "h": 1350,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABwAgCdASoQAAsAA4BaJbACdB2gDYtLcjs1vNEAAP73mqGOr66YO60aPBNv3Sc/qe4/jmw9WCdC533yKcgjdJoFsDxLMVJ9GTGHHI8sTO5iQBrG1UpX05u5GEYhqv0yZ5clUk3cAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1350
+  },
+  "v": "40189110"
+ },
+ "venus-de-milo": {
+  "w": 1431,
+  "h": 2400,
+  "color": "#684818",
+  "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoKABAAA4BaJagCdADcG0L8NEAA/r/D7nOxV6Cfx/zK318oKfYWuup/7IpfQ48LaTQhodk3pSoORJXyODWkP9moGPXrp7JLfSr01zAA",
+  "src": {
+   "w": 1920,
+   "h": 3221
+  },
+  "v": "c7246a56"
+ },
+ "venus-endormie": {
+  "w": 1920,
+  "h": 1183,
+  "color": "#080808",
+  "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoQAAoAA4BaJZACdAEapcLKFxxiAAD+9HQPDlLfIkaAPuaoeFmWrkW0iW/0fnw1OycuW2ImtjeMhKTGa5XBZP2q+xWxMzPcqD4qSeMGIDtMaVSEugv9gAAA",
+  "src": {
+   "w": 1920,
+   "h": 1183
+  },
+  "v": "5d058883"
+ },
+ "venus-et-mars": {
+  "w": 1920,
+  "h": 767,
+  "color": "#483828",
+  "blur": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAYAA4BaJQBOgB9fs3hRxaAA/qxXRxnYu5pnbgwiuj4v139/rWxE2FVzk1GSNMPBW9yxA6ydhgAA",
+  "src": {
+   "w": 1920,
+   "h": 767
+  },
+  "v": "0b2c769f"
+ },
+ "victory-boogie-woogie": {
+  "w": 1920,
+  "h": 1920,
+  "color": "#f8f8f8",
+  "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABwAgCdASoQABAAA4BaJQBdgMXD5FX6GCg2+7nIAP74ua5s0O+tIvFZMZt3YYuN4bg5UiS6e80d2YHBbt/5tgr9+76q/GZLqUcf75d/gROixiC8ubnHAkr+AAOxLNLdAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1920
+  },
+  "v": "bedcabdd"
+ },
+ "vue-de-delft": {
+  "w": 1920,
+  "h": 1594,
+  "color": "#c8c8c8",
+  "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQAA0AA4BaJaACdAEPhxQRU4eAAP6ZTKX32yMR7Vpz36gS4ozR/70g2FTadqNR2BFtpSe+dTH5xGROWrU8r4WEEq7CWZGYpmhsVK5RGqUYvsJmAAA=",
+  "src": {
+   "w": 1920,
+   "h": 1594
+  },
+  "v": "ddb5ece5"
+ },
+ "zodiaque": {
+  "w": 1807,
+  "h": 2400,
+  "color": "#f8c888",
+  "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACwAQCdASoMABAAA4BaJagCdADaLVIAAPA7r5e584OlVhb1sYTCYlp6dIhT6iCqci7I9SptcH73aKvGJkYSzOPB3QMK6msNx7VIY6QTkJtSFswwN6AAAA==",
+  "src": {
+   "w": 1920,
+   "h": 2550
+  },
+  "v": "7c84085c"
+ }
+}

@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+.cache
+.claude
+._*
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+package-lock.json
+docs/figures/*-look.png
+docs/figures/*-blind.png
+docs/figures/*-motion.png
